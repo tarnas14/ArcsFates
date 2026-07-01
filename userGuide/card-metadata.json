@@ -1,0 +1,16 @@
+{
+  "Base/1/b/piece_0_2.jpg": {
+    "name": "Sprinter Drives",
+    "type": "Lore",
+    "description": "When you move fresh Loyal ships, you may move any of them one more time. (Damaged ships can move with them once, but won't move one more time. Resolve this after all Catapult moves.)",
+    "bottom_left": "L",
+    "bottom_right": "03"
+  },
+  "Base/1/x/piece_0_3.jpg": {
+    "name": "Dupa dupa",
+    "type": "Lore",
+    "description": "hehehe",
+    "bottom_left": "L",
+    "bottom_right": "03"
+  }
+}

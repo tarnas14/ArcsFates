@@ -27,3 +27,6 @@ markdown_extensions:
   - pymdownx.superfences
   - md_in_html
   - attr_list
+
+hooks:
+  - hooks.py
