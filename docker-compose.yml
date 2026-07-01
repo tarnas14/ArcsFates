@@ -1,0 +1,8 @@
+services:
+  mkdocs:
+    build: .
+    # Host port is configurable via MKDOCS_PORT (default 3335); container always serves on 8000
+    ports:
+      - "${MKDOCS_PORT:-3335}:8000"
+    volumes:
+      - ./userGuide:/userGuide
