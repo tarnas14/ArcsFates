@@ -11,6 +11,7 @@ extra_javascript:
 extra:
   generator: false
 plugins:
+  - search
   - offline
   - mkdocs-nav-weight:
       section_renamed: false
