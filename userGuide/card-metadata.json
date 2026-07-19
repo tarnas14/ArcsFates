@@ -1,15 +1,120 @@
 {
+  "Base/0/b/piece_0_0.jpg": {
+    "name": "Elder",
+    "type": "Leader",
+    "description": "Placeholder rules text for Elder: aetherium dolor sit amet, consectetur adipiscing elit. Mock text — real card wording comes later.",
+    "bottom_left": null,
+    "bottom_right": null
+  },
+  "Base/0/b/piece_0_1.jpg": {
+    "name": "Mystic",
+    "type": "Leader",
+    "description": "Placeholder rules text for Mystic: clairvoyance dolor sit amet, consectetur adipiscing elit. Mock text — real card wording comes later.",
+    "bottom_left": null,
+    "bottom_right": null
+  },
+  "Base/0/b/piece_0_2.jpg": {
+    "name": "Fuel-Drinker",
+    "type": "Leader",
+    "description": "Placeholder rules text for Fuel-Drinker: combustion dolor sit amet, consectetur adipiscing elit. Mock text — real card wording comes later.",
+    "bottom_left": null,
+    "bottom_right": null
+  },
+  "Base/0/b/piece_0_3.jpg": {
+    "name": "Upstart",
+    "type": "Leader",
+    "description": "Placeholder rules text for Upstart: insurgency dolor sit amet, consectetur adipiscing elit. Mock text — real card wording comes later.",
+    "bottom_left": null,
+    "bottom_right": null
+  },
+  "Base/0/b/piece_1_0.jpg": {
+    "name": "Rebel",
+    "type": "Leader",
+    "description": "Placeholder rules text for Rebel: sedition dolor sit amet, consectetur adipiscing elit. Mock text — real card wording comes later.",
+    "bottom_left": null,
+    "bottom_right": null
+  },
+  "Base/0/b/piece_1_1.jpg": {
+    "name": "Warrior",
+    "type": "Leader",
+    "description": "Placeholder rules text for Warrior: onslaught dolor sit amet, consectetur adipiscing elit. Mock text — real card wording comes later.",
+    "bottom_left": null,
+    "bottom_right": null
+  },
+  "Base/0/b/piece_1_2.jpg": {
+    "name": "Feastbringer",
+    "type": "Leader",
+    "description": "Placeholder rules text for Feastbringer: banquet dolor sit amet, consectetur adipiscing elit. Mock text — real card wording comes later.",
+    "bottom_left": null,
+    "bottom_right": null
+  },
+  "Base/0/b/piece_1_3.jpg": {
+    "name": "Demagogue",
+    "type": "Leader",
+    "description": "Placeholder rules text for Demagogue: rhetoric dolor sit amet, consectetur adipiscing elit. Mock text — real card wording comes later.",
+    "bottom_left": null,
+    "bottom_right": null
+  },
+  "Base/0/x/piece_0_0.jpg": {
+    "name": "Archivist",
+    "type": "Leader",
+    "description": "Placeholder rules text for Archivist: codex dolor sit amet, consectetur adipiscing elit. Mock text — real card wording comes later.",
+    "bottom_left": null,
+    "bottom_right": null
+  },
+  "Base/0/x/piece_0_1.jpg": {
+    "name": "Overseer",
+    "type": "Leader",
+    "description": "Placeholder rules text for Overseer: surveillance dolor sit amet, consectetur adipiscing elit. Mock text — real card wording comes later.",
+    "bottom_left": null,
+    "bottom_right": null
+  },
+  "Base/0/x/piece_0_2.jpg": {
+    "name": "Corsair",
+    "type": "Leader",
+    "description": "Placeholder rules text for Corsair: privateer dolor sit amet, consectetur adipiscing elit. Mock text — real card wording comes later.",
+    "bottom_left": null,
+    "bottom_right": null
+  },
+  "Base/0/x/piece_0_3.jpg": {
+    "name": "Noble",
+    "type": "Leader",
+    "description": "Placeholder rules text for Noble: aristocracy dolor sit amet, consectetur adipiscing elit. Mock text — real card wording comes later.",
+    "bottom_left": null,
+    "bottom_right": null
+  },
+  "Base/0/x/piece_1_0.jpg": {
+    "name": "Anarchist",
+    "type": "Leader",
+    "description": "Placeholder rules text for Anarchist: upheaval dolor sit amet, consectetur adipiscing elit. Mock text — real card wording comes later.",
+    "bottom_left": null,
+    "bottom_right": null
+  },
+  "Base/0/x/piece_1_1.jpg": {
+    "name": "Shaper",
+    "type": "Leader",
+    "description": "Placeholder rules text for Shaper: genesis dolor sit amet, consectetur adipiscing elit. Mock text — real card wording comes later.",
+    "bottom_left": null,
+    "bottom_right": null
+  },
+  "Base/0/x/piece_1_2.jpg": {
+    "name": "Agitator",
+    "type": "Leader",
+    "description": "Placeholder rules text for Agitator: provocation dolor sit amet, consectetur adipiscing elit. Mock text — real card wording comes later.",
+    "bottom_left": null,
+    "bottom_right": null
+  },
+  "Base/0/x/piece_1_3.jpg": {
+    "name": "Quartermaster",
+    "type": "Leader",
+    "description": "Placeholder rules text for Quartermaster: logistics dolor sit amet, consectetur adipiscing elit. Mock text — real card wording comes later.",
+    "bottom_left": null,
+    "bottom_right": null
+  },
   "Base/1/b/piece_0_2.jpg": {
     "name": "Sprinter Drives",
     "type": "Lore",
     "description": "When you move fresh Loyal ships, you may move any of them one more time. (Damaged ships can move with them once, but won't move one more time. Resolve this after all Catapult moves.)",
-    "bottom_left": "L",
-    "bottom_right": "03"
-  },
-  "Base/1/x/piece_0_3.jpg": {
-    "name": "Dupa dupa",
-    "type": "Lore",
-    "description": "hehehe",
     "bottom_left": "L",
     "bottom_right": "03"
   }

@@ -7,13 +7,20 @@ theme:
 extra_css:
   - css/extra.css
   - css/lightbox.css
+  - css/cards.css
 extra_javascript:
   - js/lightbox-plus-jquery.js
 extra:
   generator: false
+not_in_nav: |
+  /cards/**
+
 plugins:
   - search
   - offline
+  - gen-files:
+      scripts:
+        - gen_cards.py
   - mkdocs-nav-weight:
       section_renamed: false
       index_weight: -10

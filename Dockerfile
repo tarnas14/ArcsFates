@@ -4,7 +4,8 @@ FROM python:3.12-slim
 RUN pip install --no-cache-dir \
     mkdocs \
     mkdocs-material \
-    mkdocs-nav-weight
+    mkdocs-nav-weight \
+    mkdocs-gen-files
 
 WORKDIR /userGuide
 
