@@ -3,6 +3,7 @@ theme:
   name: material
   features:
     - navigation.footer
+    - search.highlight
 extra_css:
   - css/extra.css
   - css/lightbox.css
