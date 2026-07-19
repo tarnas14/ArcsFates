@@ -53,6 +53,12 @@ def _slug(text):
     return re.sub(r"[^a-z0-9]+", "-", text.lower()).strip("-") or "card"
 
 
+def _card_src(docs_path, name):
+    # Page path is namespaced by top section (base/campaign); keep in sync with gen_cards.py.
+    section = docs_path.split("/", 1)[0].lower()
+    return "cards/" + section + "/" + _slug(name) + ".md"
+
+
 def _text_values(value):
     """Yield every non-empty string/number leaf of a metadata value, in order."""
     if isinstance(value, bool):
@@ -71,10 +77,10 @@ def _text_values(value):
             yield from _text_values(item)
 
 
-def _card_href(name, page, files):
-    src = "cards/" + _slug(name) + ".md"
+def _card_href(docs_path, name, page, files):
+    src = _card_src(docs_path, name)
     found = files.get_file_from_path(src)
-    target = found.url if found is not None else "cards/" + _slug(name) + "/"
+    target = found.url if found is not None else posixpath.splitext(src)[0] + ".html"
     return get_relative_url(target, page.file.url)
 
 
@@ -118,7 +124,7 @@ def on_page_content(html_content, page, config, files, **kwargs):
         if not values:
             return match.group(0)
         name = meta.get("name") or values[0]
-        data_title = _caption_attr(name, values, _card_href(name, page, files))
+        data_title = _caption_attr(name, values, _card_href(docs_path, name, page, files))
         return f'<a{attrs} data-title="{data_title}">{inner}</a>'
 
     return _ANCHOR_IMG.sub(caption_anchor, html_content)

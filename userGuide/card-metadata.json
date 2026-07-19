@@ -1,121 +1,723 @@
 {
   "Base/0/b/piece_0_0.jpg": {
-    "name": "Elder",
-    "type": "Leader",
-    "description": "Placeholder rules text for Elder: aetherium dolor sit amet, consectetur adipiscing elit. Mock text — real card wording comes later.",
     "bottom_left": null,
-    "bottom_right": null
+    "bottom_right": null,
+    "description": "Placeholder rules text for Elder: aetherium dolor sit amet, consectetur adipiscing elit. Mock text — real card wording comes later.",
+    "name": "Elder",
+    "type": "Leader"
   },
   "Base/0/b/piece_0_1.jpg": {
-    "name": "Mystic",
-    "type": "Leader",
-    "description": "Placeholder rules text for Mystic: clairvoyance dolor sit amet, consectetur adipiscing elit. Mock text — real card wording comes later.",
     "bottom_left": null,
-    "bottom_right": null
+    "bottom_right": null,
+    "description": "Placeholder rules text for Mystic: clairvoyance dolor sit amet, consectetur adipiscing elit. Mock text — real card wording comes later.",
+    "name": "Mystic",
+    "type": "Leader"
   },
   "Base/0/b/piece_0_2.jpg": {
-    "name": "Fuel-Drinker",
-    "type": "Leader",
-    "description": "Placeholder rules text for Fuel-Drinker: combustion dolor sit amet, consectetur adipiscing elit. Mock text — real card wording comes later.",
     "bottom_left": null,
-    "bottom_right": null
+    "bottom_right": null,
+    "description": "Placeholder rules text for Fuel-Drinker: combustion dolor sit amet, consectetur adipiscing elit. Mock text — real card wording comes later.",
+    "name": "Fuel-Drinker",
+    "type": "Leader"
   },
   "Base/0/b/piece_0_3.jpg": {
-    "name": "Upstart",
-    "type": "Leader",
-    "description": "Placeholder rules text for Upstart: insurgency dolor sit amet, consectetur adipiscing elit. Mock text — real card wording comes later.",
     "bottom_left": null,
-    "bottom_right": null
+    "bottom_right": null,
+    "description": "Placeholder rules text for Upstart: insurgency dolor sit amet, consectetur adipiscing elit. Mock text — real card wording comes later.",
+    "name": "Upstart",
+    "type": "Leader"
   },
   "Base/0/b/piece_1_0.jpg": {
-    "name": "Rebel",
-    "type": "Leader",
-    "description": "Placeholder rules text for Rebel: sedition dolor sit amet, consectetur adipiscing elit. Mock text — real card wording comes later.",
     "bottom_left": null,
-    "bottom_right": null
+    "bottom_right": null,
+    "description": "Placeholder rules text for Rebel: sedition dolor sit amet, consectetur adipiscing elit. Mock text — real card wording comes later.",
+    "name": "Rebel",
+    "type": "Leader"
   },
   "Base/0/b/piece_1_1.jpg": {
-    "name": "Warrior",
-    "type": "Leader",
-    "description": "Placeholder rules text for Warrior: onslaught dolor sit amet, consectetur adipiscing elit. Mock text — real card wording comes later.",
     "bottom_left": null,
-    "bottom_right": null
+    "bottom_right": null,
+    "description": "Placeholder rules text for Warrior: onslaught dolor sit amet, consectetur adipiscing elit. Mock text — real card wording comes later.",
+    "name": "Warrior",
+    "type": "Leader"
   },
   "Base/0/b/piece_1_2.jpg": {
-    "name": "Feastbringer",
-    "type": "Leader",
-    "description": "Placeholder rules text for Feastbringer: banquet dolor sit amet, consectetur adipiscing elit. Mock text — real card wording comes later.",
     "bottom_left": null,
-    "bottom_right": null
+    "bottom_right": null,
+    "description": "Placeholder rules text for Feastbringer: banquet dolor sit amet, consectetur adipiscing elit. Mock text — real card wording comes later.",
+    "name": "Feastbringer",
+    "type": "Leader"
   },
   "Base/0/b/piece_1_3.jpg": {
-    "name": "Demagogue",
-    "type": "Leader",
-    "description": "Placeholder rules text for Demagogue: rhetoric dolor sit amet, consectetur adipiscing elit. Mock text — real card wording comes later.",
     "bottom_left": null,
-    "bottom_right": null
+    "bottom_right": null,
+    "description": "Placeholder rules text for Demagogue: rhetoric dolor sit amet, consectetur adipiscing elit. Mock text — real card wording comes later.",
+    "name": "Demagogue",
+    "type": "Leader"
   },
   "Base/0/x/piece_0_0.jpg": {
-    "name": "Archivist",
-    "type": "Leader",
-    "description": "Placeholder rules text for Archivist: codex dolor sit amet, consectetur adipiscing elit. Mock text — real card wording comes later.",
     "bottom_left": null,
-    "bottom_right": null
+    "bottom_right": null,
+    "description": "Placeholder rules text for Archivist: codex dolor sit amet, consectetur adipiscing elit. Mock text — real card wording comes later.",
+    "name": "Archivist",
+    "type": "Leader"
   },
   "Base/0/x/piece_0_1.jpg": {
-    "name": "Overseer",
-    "type": "Leader",
-    "description": "Placeholder rules text for Overseer: surveillance dolor sit amet, consectetur adipiscing elit. Mock text — real card wording comes later.",
     "bottom_left": null,
-    "bottom_right": null
+    "bottom_right": null,
+    "description": "Placeholder rules text for Overseer: surveillance dolor sit amet, consectetur adipiscing elit. Mock text — real card wording comes later.",
+    "name": "Overseer",
+    "type": "Leader"
   },
   "Base/0/x/piece_0_2.jpg": {
-    "name": "Corsair",
-    "type": "Leader",
-    "description": "Placeholder rules text for Corsair: privateer dolor sit amet, consectetur adipiscing elit. Mock text — real card wording comes later.",
     "bottom_left": null,
-    "bottom_right": null
+    "bottom_right": null,
+    "description": "Placeholder rules text for Corsair: privateer dolor sit amet, consectetur adipiscing elit. Mock text — real card wording comes later.",
+    "name": "Corsair",
+    "type": "Leader"
   },
   "Base/0/x/piece_0_3.jpg": {
-    "name": "Noble",
-    "type": "Leader",
-    "description": "Placeholder rules text for Noble: aristocracy dolor sit amet, consectetur adipiscing elit. Mock text — real card wording comes later.",
     "bottom_left": null,
-    "bottom_right": null
+    "bottom_right": null,
+    "description": "Placeholder rules text for Noble: aristocracy dolor sit amet, consectetur adipiscing elit. Mock text — real card wording comes later.",
+    "name": "Noble",
+    "type": "Leader"
   },
   "Base/0/x/piece_1_0.jpg": {
-    "name": "Anarchist",
-    "type": "Leader",
-    "description": "Placeholder rules text for Anarchist: upheaval dolor sit amet, consectetur adipiscing elit. Mock text — real card wording comes later.",
     "bottom_left": null,
-    "bottom_right": null
+    "bottom_right": null,
+    "description": "Placeholder rules text for Anarchist: upheaval dolor sit amet, consectetur adipiscing elit. Mock text — real card wording comes later.",
+    "name": "Anarchist",
+    "type": "Leader"
   },
   "Base/0/x/piece_1_1.jpg": {
-    "name": "Shaper",
-    "type": "Leader",
-    "description": "Placeholder rules text for Shaper: genesis dolor sit amet, consectetur adipiscing elit. Mock text — real card wording comes later.",
     "bottom_left": null,
-    "bottom_right": null
+    "bottom_right": null,
+    "description": "Placeholder rules text for Shaper: genesis dolor sit amet, consectetur adipiscing elit. Mock text — real card wording comes later.",
+    "name": "Shaper",
+    "type": "Leader"
   },
   "Base/0/x/piece_1_2.jpg": {
-    "name": "Agitator",
-    "type": "Leader",
-    "description": "Placeholder rules text for Agitator: provocation dolor sit amet, consectetur adipiscing elit. Mock text — real card wording comes later.",
     "bottom_left": null,
-    "bottom_right": null
+    "bottom_right": null,
+    "description": "Placeholder rules text for Agitator: provocation dolor sit amet, consectetur adipiscing elit. Mock text — real card wording comes later.",
+    "name": "Agitator",
+    "type": "Leader"
   },
   "Base/0/x/piece_1_3.jpg": {
-    "name": "Quartermaster",
-    "type": "Leader",
-    "description": "Placeholder rules text for Quartermaster: logistics dolor sit amet, consectetur adipiscing elit. Mock text — real card wording comes later.",
     "bottom_left": null,
-    "bottom_right": null
+    "bottom_right": null,
+    "description": "Placeholder rules text for Quartermaster: logistics dolor sit amet, consectetur adipiscing elit. Mock text — real card wording comes later.",
+    "name": "Quartermaster",
+    "type": "Leader"
+  },
+  "Base/1/b/piece_0_0.jpg": {
+    "bottom_left": null,
+    "bottom_right": null,
+    "description": "Placeholder text for Tool-Priests; real card wording not yet transcribed. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "name": "Tool-Priests",
+    "type": "Lore"
+  },
+  "Base/1/b/piece_0_1.jpg": {
+    "bottom_left": null,
+    "bottom_right": null,
+    "description": "Placeholder text for Galactic Rifles; real card wording not yet transcribed. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "name": "Galactic Rifles",
+    "type": "Lore"
   },
   "Base/1/b/piece_0_2.jpg": {
-    "name": "Sprinter Drives",
-    "type": "Lore",
-    "description": "When you move fresh Loyal ships, you may move any of them one more time. (Damaged ships can move with them once, but won't move one more time. Resolve this after all Catapult moves.)",
     "bottom_left": "L",
-    "bottom_right": "03"
+    "bottom_right": "03",
+    "description": "When you move fresh Loyal ships, you may move any of them one more time. (Damaged ships can move with them once, but won't move one more time. Resolve this after all Catapult moves.)",
+    "name": "Sprinter Drives",
+    "type": "Lore"
+  },
+  "Base/1/b/piece_0_3.jpg": {
+    "bottom_left": null,
+    "bottom_right": null,
+    "description": "Placeholder text for Mirror Plating; real card wording not yet transcribed. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "name": "Mirror Plating",
+    "type": "Lore"
+  },
+  "Base/1/b/piece_0_4.jpg": {
+    "bottom_left": null,
+    "bottom_right": null,
+    "description": "Placeholder text for Hidden Harbors; real card wording not yet transcribed. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "name": "Hidden Harbors",
+    "type": "Lore"
+  },
+  "Base/1/b/piece_0_5.jpg": {
+    "bottom_left": null,
+    "bottom_right": null,
+    "description": "Placeholder text for Signal Breaker; real card wording not yet transcribed. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "name": "Signal Breaker",
+    "type": "Lore"
+  },
+  "Base/1/b/piece_0_6.jpg": {
+    "bottom_left": null,
+    "bottom_right": null,
+    "description": "Placeholder text for Repair Drones; real card wording not yet transcribed. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "name": "Repair Drones",
+    "type": "Lore"
+  },
+  "Base/1/b/piece_1_0.jpg": {
+    "bottom_left": null,
+    "bottom_right": null,
+    "description": "Placeholder text for Gate Ports; real card wording not yet transcribed. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "name": "Gate Ports",
+    "type": "Lore"
+  },
+  "Base/1/b/piece_1_1.jpg": {
+    "bottom_left": null,
+    "bottom_right": null,
+    "description": "Placeholder text for Cloud Cities; real card wording not yet transcribed. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "name": "Cloud Cities",
+    "type": "Lore"
+  },
+  "Base/1/b/piece_1_2.jpg": {
+    "bottom_left": null,
+    "bottom_right": null,
+    "description": "Placeholder text for Living Structure; real card wording not yet transcribed. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "name": "Living Structure",
+    "type": "Lore"
+  },
+  "Base/1/b/piece_1_3.jpg": {
+    "bottom_left": null,
+    "bottom_right": null,
+    "description": "Placeholder text for Gate Stations; real card wording not yet transcribed. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "name": "Gate Stations",
+    "type": "Lore"
+  },
+  "Base/1/b/piece_1_4.jpg": {
+    "bottom_left": null,
+    "bottom_right": null,
+    "description": "Placeholder text for Railgun Arrays; real card wording not yet transcribed. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "name": "Railgun Arrays",
+    "type": "Lore"
+  },
+  "Base/1/b/piece_1_5.jpg": {
+    "bottom_left": null,
+    "bottom_right": null,
+    "description": "Placeholder text for Ancient Holdings; real card wording not yet transcribed. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "name": "Ancient Holdings",
+    "type": "Lore"
+  },
+  "Base/1/b/piece_1_6.jpg": {
+    "bottom_left": null,
+    "bottom_right": null,
+    "description": "Placeholder text for Seeker Torpedoes; real card wording not yet transcribed. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "name": "Seeker Torpedoes",
+    "type": "Lore"
+  },
+  "Base/1/x/piece_0_0.jpg": {
+    "bottom_left": null,
+    "bottom_right": null,
+    "description": "Placeholder text for Predictive Sensors; real card wording not yet transcribed. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "name": "Predictive Sensors",
+    "type": "Lore"
+  },
+  "Base/1/x/piece_0_1.jpg": {
+    "bottom_left": null,
+    "bottom_right": null,
+    "description": "Placeholder text for Force Beams; real card wording not yet transcribed. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "name": "Force Beams",
+    "type": "Lore"
+  },
+  "Base/1/x/piece_0_2.jpg": {
+    "bottom_left": null,
+    "bottom_right": null,
+    "description": "Placeholder text for Raider Exosuits; real card wording not yet transcribed. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "name": "Raider Exosuits",
+    "type": "Lore"
+  },
+  "Base/1/x/piece_0_3.jpg": {
+    "bottom_left": null,
+    "bottom_right": null,
+    "description": "Placeholder text for Survival Overrides; real card wording not yet transcribed. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "name": "Survival Overrides",
+    "type": "Lore"
+  },
+  "Base/1/x/piece_0_4.jpg": {
+    "bottom_left": null,
+    "bottom_right": null,
+    "description": "Placeholder text for Empath's Vision; real card wording not yet transcribed. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "name": "Empath's Vision",
+    "type": "Lore"
+  },
+  "Base/1/x/piece_0_5.jpg": {
+    "bottom_left": null,
+    "bottom_right": null,
+    "description": "Placeholder text for Empath's Bond; real card wording not yet transcribed. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "name": "Empath's Bond",
+    "type": "Lore"
+  },
+  "Base/1/x/piece_0_6.jpg": {
+    "bottom_left": null,
+    "bottom_right": null,
+    "description": "Placeholder text for Keeper's Trust; real card wording not yet transcribed. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "name": "Keeper's Trust",
+    "type": "Lore"
+  },
+  "Base/1/x/piece_1_0.jpg": {
+    "bottom_left": null,
+    "bottom_right": null,
+    "description": "Placeholder text for Keeper's Solidarity; real card wording not yet transcribed. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "name": "Keeper's Solidarity",
+    "type": "Lore"
+  },
+  "Base/1/x/piece_1_1.jpg": {
+    "bottom_left": null,
+    "bottom_right": null,
+    "description": "Placeholder text for Warlord's Cruelty; real card wording not yet transcribed. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "name": "Warlord's Cruelty",
+    "type": "Lore"
+  },
+  "Base/1/x/piece_1_2.jpg": {
+    "bottom_left": null,
+    "bottom_right": null,
+    "description": "Placeholder text for Warlord's Terror; real card wording not yet transcribed. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "name": "Warlord's Terror",
+    "type": "Lore"
+  },
+  "Base/1/x/piece_1_3.jpg": {
+    "bottom_left": null,
+    "bottom_right": null,
+    "description": "Placeholder text for Tyrant's Ego; real card wording not yet transcribed. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "name": "Tyrant's Ego",
+    "type": "Lore"
+  },
+  "Base/1/x/piece_1_4.jpg": {
+    "bottom_left": null,
+    "bottom_right": null,
+    "description": "Placeholder text for Tyrant's Authority; real card wording not yet transcribed. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "name": "Tyrant's Authority",
+    "type": "Lore"
+  },
+  "Base/1/x/piece_1_5.jpg": {
+    "bottom_left": null,
+    "bottom_right": null,
+    "description": "Placeholder text for Tycoon's Ambition; real card wording not yet transcribed. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "name": "Tycoon's Ambition",
+    "type": "Lore"
+  },
+  "Base/1/x/piece_1_6.jpg": {
+    "bottom_left": null,
+    "bottom_right": null,
+    "description": "Placeholder text for Tycoon's Charm; real card wording not yet transcribed. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "name": "Tycoon's Charm",
+    "type": "Lore"
+  },
+  "Base/2/piece_0_0.jpg": {
+    "bottom_left": null,
+    "bottom_right": null,
+    "description": "Placeholder text for Loyal Engineers; real card wording not yet transcribed. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "name": "Loyal Engineers",
+    "type": "Court"
+  },
+  "Base/2/piece_0_1.jpg": {
+    "bottom_left": null,
+    "bottom_right": null,
+    "description": "Placeholder text for Mining Interest; real card wording not yet transcribed. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "name": "Mining Interest",
+    "type": "Court"
+  },
+  "Base/2/piece_0_2.jpg": {
+    "bottom_left": null,
+    "bottom_right": null,
+    "description": "Placeholder text for Material Cartel; real card wording not yet transcribed. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "name": "Material Cartel",
+    "type": "Court"
+  },
+  "Base/2/piece_0_3.jpg": {
+    "bottom_left": null,
+    "bottom_right": null,
+    "description": "Placeholder text for Admin Union; real card wording not yet transcribed. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "name": "Admin Union",
+    "type": "Court"
+  },
+  "Base/2/piece_0_4.jpg": {
+    "bottom_left": null,
+    "bottom_right": null,
+    "description": "Placeholder text for Construction Union; real card wording not yet transcribed. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "name": "Construction Union",
+    "type": "Court"
+  },
+  "Base/2/piece_0_5.jpg": {
+    "bottom_left": null,
+    "bottom_right": null,
+    "description": "Placeholder text for Fuel Cartel; real card wording not yet transcribed. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "name": "Fuel Cartel",
+    "type": "Court"
+  },
+  "Base/2/piece_0_6.jpg": {
+    "bottom_left": null,
+    "bottom_right": null,
+    "description": "Placeholder text for Loyal Pilots; real card wording not yet transcribed. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "name": "Loyal Pilots",
+    "type": "Court"
+  },
+  "Base/2/piece_1_0.jpg": {
+    "bottom_left": null,
+    "bottom_right": null,
+    "description": "Placeholder text for Gatekeepers; real card wording not yet transcribed. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "name": "Gatekeepers",
+    "type": "Court"
+  },
+  "Base/2/piece_1_1.jpg": {
+    "bottom_left": null,
+    "bottom_right": null,
+    "description": "Placeholder text for Shipping Interest; real card wording not yet transcribed. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "name": "Shipping Interest",
+    "type": "Court"
+  },
+  "Base/2/piece_1_2.jpg": {
+    "bottom_left": null,
+    "bottom_right": null,
+    "description": "Placeholder text for Spacing Union; real card wording not yet transcribed. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "name": "Spacing Union",
+    "type": "Court"
+  },
+  "Base/2/piece_1_3.jpg": {
+    "bottom_left": null,
+    "bottom_right": null,
+    "description": "Placeholder text for Arms Union; real card wording not yet transcribed. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "name": "Arms Union",
+    "type": "Court"
+  },
+  "Base/2/piece_1_4.jpg": {
+    "bottom_left": null,
+    "bottom_right": null,
+    "description": "Placeholder text for Prison Wardens; real card wording not yet transcribed. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "name": "Prison Wardens",
+    "type": "Court"
+  },
+  "Base/2/piece_1_5.jpg": {
+    "bottom_left": null,
+    "bottom_right": null,
+    "description": "Placeholder text for Skirmishers; real card wording not yet transcribed. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "name": "Skirmishers",
+    "type": "Court"
+  },
+  "Base/2/piece_1_6.jpg": {
+    "bottom_left": null,
+    "bottom_right": null,
+    "description": "Placeholder text for Court Enforcers; real card wording not yet transcribed. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "name": "Court Enforcers",
+    "type": "Court"
+  },
+  "Base/2/piece_2_0.jpg": {
+    "bottom_left": null,
+    "bottom_right": null,
+    "description": "Placeholder text for Loyal Marines; real card wording not yet transcribed. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "name": "Loyal Marines",
+    "type": "Court"
+  },
+  "Base/2/piece_2_1.jpg": {
+    "bottom_left": null,
+    "bottom_right": null,
+    "description": "Placeholder text for Lattice Spies; real card wording not yet transcribed. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "name": "Lattice Spies",
+    "type": "Court"
+  },
+  "Base/2/piece_2_2.jpg": {
+    "bottom_left": null,
+    "bottom_right": null,
+    "description": "Placeholder text for Farseers; real card wording not yet transcribed. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "name": "Farseers",
+    "type": "Court"
+  },
+  "Base/2/piece_2_3.jpg": {
+    "bottom_left": null,
+    "bottom_right": null,
+    "description": "Placeholder text for Secret Order; real card wording not yet transcribed. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "name": "Secret Order",
+    "type": "Court"
+  },
+  "Base/2/piece_2_4.jpg": {
+    "bottom_left": null,
+    "bottom_right": null,
+    "description": "Placeholder text for Loyal Empaths; real card wording not yet transcribed. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "name": "Loyal Empaths",
+    "type": "Court"
+  },
+  "Base/2/piece_2_5.jpg": {
+    "bottom_left": null,
+    "bottom_right": null,
+    "description": "Placeholder text for Silver-Tongues; real card wording not yet transcribed. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "name": "Silver-Tongues",
+    "type": "Court"
+  },
+  "Base/2/piece_2_6.jpg": {
+    "bottom_left": null,
+    "bottom_right": null,
+    "description": "Placeholder text for Loyal Keepers; real card wording not yet transcribed. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "name": "Loyal Keepers",
+    "type": "Court"
+  },
+  "Base/2/piece_3_0.jpg": {
+    "bottom_left": null,
+    "bottom_right": null,
+    "description": "Placeholder text for Sworn Guardians; real card wording not yet transcribed. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "name": "Sworn Guardians",
+    "type": "Court"
+  },
+  "Base/2/piece_3_1.jpg": {
+    "bottom_left": null,
+    "bottom_right": null,
+    "description": "Placeholder text for Elder Broker; real card wording not yet transcribed. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "name": "Elder Broker",
+    "type": "Court"
+  },
+  "Base/2/piece_3_2.jpg": {
+    "bottom_left": null,
+    "bottom_right": null,
+    "description": "Placeholder text for Relic Fence; real card wording not yet transcribed. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "name": "Relic Fence",
+    "type": "Court"
+  },
+  "Base/2/piece_3_3.jpg": {
+    "bottom_left": null,
+    "bottom_right": null,
+    "description": "Placeholder text for Galactic Bards; real card wording not yet transcribed. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "name": "Galactic Bards",
+    "type": "Court"
+  },
+  "Base/2/piece_3_4.jpg": {
+    "bottom_left": null,
+    "bottom_right": null,
+    "description": "Placeholder text for Mass Uprising; real card wording not yet transcribed. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "name": "Mass Uprising",
+    "type": "Court"
+  },
+  "Base/2/piece_3_5.jpg": {
+    "bottom_left": null,
+    "bottom_right": null,
+    "description": "Placeholder text for Populist Demands; real card wording not yet transcribed. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "name": "Populist Demands",
+    "type": "Court"
+  },
+  "Base/2/piece_3_6.jpg": {
+    "bottom_left": null,
+    "bottom_right": null,
+    "description": "Placeholder text for Outrage Spreads; real card wording not yet transcribed. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "name": "Outrage Spreads",
+    "type": "Court"
+  },
+  "Base/2/piece_4_0.jpg": {
+    "bottom_left": null,
+    "bottom_right": null,
+    "description": "Placeholder text for Song of Freedom; real card wording not yet transcribed. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "name": "Song of Freedom",
+    "type": "Court"
+  },
+  "Base/2/piece_4_1.jpg": {
+    "bottom_left": null,
+    "bottom_right": null,
+    "description": "Placeholder text for Guild Struggle; real card wording not yet transcribed. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "name": "Guild Struggle",
+    "type": "Court"
+  },
+  "Base/2/piece_4_2.jpg": {
+    "bottom_left": null,
+    "bottom_right": null,
+    "description": "Placeholder text for Call to Action; real card wording not yet transcribed. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "name": "Call to Action",
+    "type": "Court"
+  },
+  "Campaign/0/piece_0_0.jpg": {
+    "bottom_left": null,
+    "bottom_right": null,
+    "description": "Placeholder text for Mining Interest; real card wording not yet transcribed. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "name": "Mining Interest",
+    "type": "Court"
+  },
+  "Campaign/0/piece_0_1.jpg": {
+    "bottom_left": null,
+    "bottom_right": null,
+    "description": "Placeholder text for Construction Union; real card wording not yet transcribed. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "name": "Construction Union",
+    "type": "Court"
+  },
+  "Campaign/0/piece_0_2.jpg": {
+    "bottom_left": null,
+    "bottom_right": null,
+    "description": "Placeholder text for Gatekeepers; real card wording not yet transcribed. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "name": "Gatekeepers",
+    "type": "Court"
+  },
+  "Campaign/0/piece_0_3.jpg": {
+    "bottom_left": null,
+    "bottom_right": null,
+    "description": "Placeholder text for Shipping Interest; real card wording not yet transcribed. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "name": "Shipping Interest",
+    "type": "Court"
+  },
+  "Campaign/0/piece_0_4.jpg": {
+    "bottom_left": null,
+    "bottom_right": null,
+    "description": "Placeholder text for Skirmishers; real card wording not yet transcribed. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "name": "Skirmishers",
+    "type": "Court"
+  },
+  "Campaign/0/piece_0_5.jpg": {
+    "bottom_left": null,
+    "bottom_right": null,
+    "description": "Placeholder text for Arms Union; real card wording not yet transcribed. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "name": "Arms Union",
+    "type": "Court"
+  },
+  "Campaign/0/piece_0_6.jpg": {
+    "bottom_left": null,
+    "bottom_right": null,
+    "description": "Placeholder text for Lattice Spies; real card wording not yet transcribed. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "name": "Lattice Spies",
+    "type": "Court"
+  },
+  "Campaign/0/piece_1_0.jpg": {
+    "bottom_left": null,
+    "bottom_right": null,
+    "description": "Placeholder text for Silver-Tongues; real card wording not yet transcribed. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "name": "Silver-Tongues",
+    "type": "Court"
+  },
+  "Campaign/0/piece_1_1.jpg": {
+    "bottom_left": null,
+    "bottom_right": null,
+    "description": "Placeholder text for Sworn Guardians; real card wording not yet transcribed. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "name": "Sworn Guardians",
+    "type": "Court"
+  },
+  "Campaign/0/piece_1_2.jpg": {
+    "bottom_left": null,
+    "bottom_right": null,
+    "description": "Placeholder text for Elder Broker; real card wording not yet transcribed. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "name": "Elder Broker",
+    "type": "Court"
+  },
+  "Campaign/0/piece_1_3.jpg": {
+    "bottom_left": null,
+    "bottom_right": null,
+    "description": "Placeholder text for Populist Demands; real card wording not yet transcribed. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "name": "Populist Demands",
+    "type": "Court"
+  },
+  "Campaign/0/piece_1_4.jpg": {
+    "bottom_left": null,
+    "bottom_right": null,
+    "description": "Placeholder text for Council Intrigue; real card wording not yet transcribed. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "name": "Council Intrigue",
+    "type": "Court"
+  },
+  "Campaign/0/piece_1_5.jpg": {
+    "bottom_left": null,
+    "bottom_right": null,
+    "description": "Placeholder text for Diplomatic Fiasco; real card wording not yet transcribed. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "name": "Diplomatic Fiasco",
+    "type": "Court"
+  },
+  "Campaign/0/piece_1_6.jpg": {
+    "bottom_left": null,
+    "bottom_right": null,
+    "description": "Placeholder text for Song of Freedom; real card wording not yet transcribed. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "name": "Song of Freedom",
+    "type": "Court"
+  },
+  "Campaign/0/piece_2_0.jpg": {
+    "bottom_left": null,
+    "bottom_right": null,
+    "description": "Placeholder text for Blight Looms; real card wording not yet transcribed. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "name": "Blight Looms",
+    "type": "Court"
+  },
+  "Campaign/other/Flagship-Back.jpg": {
+    "bottom_left": null,
+    "bottom_right": null,
+    "description": "Placeholder text for Flagship Back; real card wording not yet transcribed. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "name": "Flagship Back",
+    "type": "Misc"
+  },
+  "Campaign/other/Flagship.jpg": {
+    "bottom_left": null,
+    "bottom_right": null,
+    "description": "Placeholder text for Flagship Front; real card wording not yet transcribed. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "name": "Flagship Front",
+    "type": "Misc"
+  },
+  "Campaign/other/back_0_0.jpg": {
+    "bottom_left": null,
+    "bottom_right": null,
+    "description": "Placeholder text for Imperial Council Decided; real card wording not yet transcribed. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "name": "Imperial Council Decided",
+    "type": "Misc"
+  },
+  "Campaign/other/back_1_1.jpg": {
+    "bottom_left": null,
+    "bottom_right": null,
+    "description": "Placeholder text for Outlaw; real card wording not yet transcribed. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "name": "Outlaw",
+    "type": "Misc"
+  },
+  "Campaign/other/back_2_1.jpg": {
+    "bottom_left": null,
+    "bottom_right": null,
+    "description": "Placeholder text for Flagship Upgrades Back; real card wording not yet transcribed. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "name": "Flagship Upgrades Back",
+    "type": "Misc"
+  },
+  "Campaign/other/piece_0_0.jpg": {
+    "bottom_left": null,
+    "bottom_right": null,
+    "description": "Placeholder text for Imperial Council in Session; real card wording not yet transcribed. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "name": "Imperial Council in Session",
+    "type": "Misc"
+  },
+  "Campaign/other/piece_0_1.jpg": {
+    "bottom_left": null,
+    "bottom_right": null,
+    "description": "Placeholder text for Guild Envoys Depart; real card wording not yet transcribed. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "name": "Guild Envoys Depart",
+    "type": "Misc"
+  },
+  "Campaign/other/piece_0_2.jpg": {
+    "bottom_left": null,
+    "bottom_right": null,
+    "description": "Placeholder text for Policy of War; real card wording not yet transcribed. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "name": "Policy of War",
+    "type": "Misc"
+  },
+  "Campaign/other/piece_0_3.jpg": {
+    "bottom_left": null,
+    "bottom_right": null,
+    "description": "Placeholder text for Policy of Peace; real card wording not yet transcribed. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "name": "Policy of Peace",
+    "type": "Misc"
+  },
+  "Campaign/other/piece_1_0.jpg": {
+    "bottom_left": null,
+    "bottom_right": null,
+    "description": "Placeholder text for Policy of Escalation; real card wording not yet transcribed. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "name": "Policy of Escalation",
+    "type": "Misc"
+  },
+  "Campaign/other/piece_1_1.jpg": {
+    "bottom_left": null,
+    "bottom_right": null,
+    "description": "Placeholder text for Imperial Regent; real card wording not yet transcribed. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "name": "Imperial Regent",
+    "type": "Misc"
+  },
+  "Campaign/other/piece_2_1.jpg": {
+    "bottom_left": null,
+    "bottom_right": null,
+    "description": "Placeholder text for Flagship Upgrades Front; real card wording not yet transcribed. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "name": "Flagship Upgrades Front",
+    "type": "Misc"
+  },
+  "Campaign/other/piece_3_1.jpg": {
+    "bottom_left": null,
+    "bottom_right": null,
+    "description": "Placeholder text for Event; real card wording not yet transcribed. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "name": "Event",
+    "type": "Misc"
   }
 }
