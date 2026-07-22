@@ -6,23 +6,23 @@ hide:
 ---
 #Leader cards
 ##Base game
-[![Elder](0/b/piece_0_0.jpg){ width="150" }](0/b/piece_0_0.jpg){ data-lightbox="1" } 
-[![Mystic](0/b/piece_0_1.jpg){ width="150" }](0/b/piece_0_1.jpg){ data-lightbox="1" } 
-[![Fuel-Drinker](0/b/piece_0_2.jpg){ width="150" }](0/b/piece_0_2.jpg){ data-lightbox="1" } 
-[![Upstart](0/b/piece_0_3.jpg){ width="150" }](0/b/piece_0_3.jpg){ data-lightbox="1" } 
-[![Rebel](0/b/piece_1_0.jpg){ width="150" }](0/b/piece_1_0.jpg){ data-lightbox="1" } 
-[![Warrior](0/b/piece_1_1.jpg){ width="150" }](0/b/piece_1_1.jpg){ data-lightbox="1" } 
-[![Feastbringer](0/b/piece_1_2.jpg){ width="150" }](0/b/piece_1_2.jpg){ data-lightbox="1" } 
-[![Demagogue](0/b/piece_1_3.jpg){ width="150" }](0/b/piece_1_3.jpg){ data-lightbox="1" } 
-##Leader and Lore pack
-[![Archivist](0/x/piece_0_0.jpg){ width="150" }](0/x/piece_0_0.jpg){ data-lightbox="1" } 
-[![Overseer](0/x/piece_0_1.jpg){ width="150" }](0/x/piece_0_1.jpg){ data-lightbox="1" } 
-[![Corsair](0/x/piece_0_2.jpg){ width="150" }](0/x/piece_0_2.jpg){ data-lightbox="1" } 
-[![Noble](0/x/piece_0_3.jpg){ width="150" }](0/x/piece_0_3.jpg){ data-lightbox="1" } 
-[![Anarchist](0/x/piece_1_0.jpg){ width="150" }](0/x/piece_1_0.jpg){ data-lightbox="1" } 
-[![Shaper](0/x/piece_1_1.jpg){ width="150" }](0/x/piece_1_1.jpg){ data-lightbox="1" } 
-[![Agitator](0/x/piece_1_2.jpg){ width="150" }](0/x/piece_1_2.jpg){ data-lightbox="1" } 
-[![Quartermaster](0/x/piece_1_3.jpg){ width="150" }](0/x/piece_1_3.jpg){ data-lightbox="1" } 
+[![Elder](0/b/piece_0_0.jpg){ width="150" }](0/b/piece_0_0.jpg){ data-lightbox="1" }
+[![Mystic](0/b/piece_0_1.jpg){ width="150" }](0/b/piece_0_1.jpg){ data-lightbox="1" }
+[![Fuel-Drinker](0/b/piece_0_2.jpg){ width="150" }](0/b/piece_0_2.jpg){ data-lightbox="1" }
+[![Upstart](0/b/piece_0_3.jpg){ width="150" }](0/b/piece_0_3.jpg){ data-lightbox="1" }
+[![Rebel](0/b/piece_1_0.jpg){ width="150" }](0/b/piece_1_0.jpg){ data-lightbox="1" }
+[![Warrior](0/b/piece_1_1.jpg){ width="150" }](0/b/piece_1_1.jpg){ data-lightbox="1" }
+[![Feastbringer](0/b/piece_1_2.jpg){ width="150" }](0/b/piece_1_2.jpg){ data-lightbox="1" }
+[![Demagogue](0/b/piece_1_3.jpg){ width="150" }](0/b/piece_1_3.jpg){ data-lightbox="1" }
+##Leaders and Lore pack
+[![Archivist](0/x/piece_0_0.jpg){ width="150" }](0/x/piece_0_0.jpg){ data-lightbox="1" }
+[![Overseer](0/x/piece_0_1.jpg){ width="150" }](0/x/piece_0_1.jpg){ data-lightbox="1" }
+[![Corsair](0/x/piece_0_2.jpg){ width="150" }](0/x/piece_0_2.jpg){ data-lightbox="1" }
+[![Noble](0/x/piece_0_3.jpg){ width="150" }](0/x/piece_0_3.jpg){ data-lightbox="1" }
+[![Anarchist](0/x/piece_1_0.jpg){ width="150" }](0/x/piece_1_0.jpg){ data-lightbox="1" }
+[![Shaper](0/x/piece_1_1.jpg){ width="150" }](0/x/piece_1_1.jpg){ data-lightbox="1" }
+[![Agitator](0/x/piece_1_2.jpg){ width="150" }](0/x/piece_1_2.jpg){ data-lightbox="1" }
+[![Quartermaster](0/x/piece_1_3.jpg){ width="150" }](0/x/piece_1_3.jpg){ data-lightbox="1" }
 
 ## FAQ / Errata
 
@@ -31,7 +31,7 @@ hide:
 
 ??? question "Upstart/Anarchist - Do the restrictions of taxing Loyal cities apply to non-Loyal cities if they are taxed "like" Loyal cities?"
     No. The effects apply only to cities that are actually Loyal. Treating a city "like it is Loyal" means it uses the rules associated with Loyal cities, but is still non-Loyal for other card effects.
-    
+
     However, these limits are in place for Loyal cities even if another card such as Empath's Bond would give you permission to tax them.
 
 ??? question "Warrior/Feastbringer/Noble/Demagogue - When granted an additional action from the Copy or Pivot ability, can I trigger a New Action on a Guild or Lore card?"
@@ -40,6 +40,6 @@ hide:
 ??? question "Overseer - Does triggering Ruthless require that I have and spend another such action in the same turn?"
     No. This allows you to repeat the effects of the action you just took, without "spending" another action. The only cost is the damage to the building.
 
-    
+
 ??? question "Corsair - Can I reroll dice one at at time, and how does this work with other reroll abilities?"
     Each reroll ability is triggered one at a time, but all rerolls granted by a reroll ability must be done simultaneously.

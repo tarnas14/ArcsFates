@@ -23,3 +23,14 @@
   margin-top: 0.6em;
   font-weight: 700;
 }
+
+/* Fate overview text rendered under the overview card on a fate page (see hooks.py).
+   Visible on purpose, so it is indexed and highlightable in place. */
+.fate-overview {
+  max-width: 40rem;
+  margin: 0.5rem auto 1.5rem;
+}
+
+.fate-overview p {
+  margin: 0.35em 0;
+}
