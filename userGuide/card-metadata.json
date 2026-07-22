@@ -3575,92 +3575,92 @@
   "Campaign/other/Flagship-Back.jpg": {
     "bottom_left": null,
     "bottom_right": null,
-    "description": "Placeholder text for Flagship Back; real card wording not yet transcribed. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "description": "Flagship Setup\n1. Place your Loyal Flagship piece in a system with Loyal pieces.\n2. Replace all Loyal cities and starports on the map with Free cities and starports, respectively.\n3. Flip this board over and place it below your player board.\n4. Take a Flagship aid card.\nYour Flagship is a fresh Loyal ship that cannot be removed from the map unless you Resettle.\n\nResettling\n1. Clear your Flagship board. Place 1 city and 1 starport in any empty building slots on the map. If there are none, replace Free buildings.\n2. Scrap your Loyal Flagship piece and Flagship board.\n3. If you have fewer than 8 Loyal ships on the map, place ships in systems with Loyal pieces until you have 8 Loyal ships on the map.",
     "name": "Flagship Back",
-    "type": "Misc"
+    "type": "Flagship"
   },
   "Campaign/other/Flagship.jpg": {
     "bottom_left": null,
     "bottom_right": null,
-    "description": "Placeholder text for Flagship Front; real card wording not yet transcribed. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "description": "Flagship.\nThe board holds six Upgrade slots around the central Flagship: Slipstream Drive, Tractor Beam, Control Array, Defense Array, Ship Crane, and Hull.\n\nRivals can collect raid dice in battle if your Flagship is defending.\n\nIn battle, your Flagship collects 1 die per fresh starport here, but it does not intercept unless it has a Defense Array!\n\nIn battle, hit pieces here like ships when attacking and like buildings when defending. Hit top first.\n\nYou may build here while your Flagship is at the matching planet. Build bottom first. You may repair pieces here.\n\nYou may build up to 1 ship per turn in your Flagship's system (2 with Ship Crane).",
     "name": "Flagship Front",
-    "type": "Misc"
+    "type": "Flagship"
   },
   "Campaign/other/back_0_0.jpg": {
     "bottom_left": null,
-    "bottom_right": null,
-    "description": "Placeholder text for Imperial Council Decided; real card wording not yet transcribed. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "bottom_right": "01",
+    "description": "When the round ends, return Imperial Council Decided to the Court, then:\n1. You may call a Summit.\n2. If you're a Regent, become First Regent.\n3. If you're an Outlaw, steal from the First Regent tile. (See Empire Rules sheet.)\n4. You must resolve either Crises or Edicts.\n\nYou cannot influence or secure this card.\n\nYou may flip this card to In Session if you call a Summit and Petition the Council.",
     "name": "Imperial Council Decided",
-    "type": "Misc"
+    "type": "Imperial Council"
   },
   "Campaign/other/back_1_1.jpg": {
     "bottom_left": null,
-    "bottom_right": null,
-    "description": "Placeholder text for Outlaw; real card wording not yet transcribed. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "bottom_right": "06",
+    "description": "Tuck this partially under your Fate card.\nYou must follow the rules for Outlaws listed on the Empire Rules aid sheet.\nYou can become a Regent, flipping this card over, if the First Regent consents to it in a Summit.\nYou can force them to make you a Regent if you called the Summit and return 1 Favor of theirs to them.",
     "name": "Outlaw",
-    "type": "Misc"
+    "type": "Title"
   },
   "Campaign/other/back_2_1.jpg": {
     "bottom_left": null,
-    "bottom_right": null,
-    "description": "Placeholder text for Flagship Upgrades Back; real card wording not yet transcribed. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "bottom_right": "10",
+    "description": "Damaged Upgrades still give benefits.\n\nDefense Array\nWhen defending in battle, your Flagship can intercept, dealing 1 hit for each fresh starport on your Flagship board.\n\nShip Crane\nYour Flagship may build up to 2 ships per turn, not 1. (You still must build twice to build 2 ships.)\n\nHull\nThis has no special benefit. It may be hit like any other Upgrade.",
     "name": "Flagship Upgrades Back",
-    "type": "Misc"
+    "type": "Ability"
   },
   "Campaign/other/piece_0_0.jpg": {
     "bottom_left": null,
-    "bottom_right": null,
-    "description": "Placeholder text for Imperial Council in Session; real card wording not yet transcribed. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "bottom_right": "01",
+    "description": "When Secured: Flip this card over to its Imperial Council Decided side. As a reminder, tuck it partially under your played card so its card title is showing.",
     "name": "Imperial Council in Session",
-    "type": "Misc"
+    "type": "Imperial Council"
   },
   "Campaign/other/piece_0_1.jpg": {
     "bottom_left": null,
-    "bottom_right": null,
-    "description": "Placeholder text for Guild Envoys Depart; real card wording not yet transcribed. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "bottom_right": "02",
+    "description": "This card is only used in two-player games.\nBury all Guild cards in the Court with no agents on them, then refill the Court.",
     "name": "Guild Envoys Depart",
-    "type": "Misc"
+    "type": "Edict"
   },
   "Campaign/other/piece_0_2.jpg": {
     "bottom_left": null,
-    "bottom_right": null,
-    "description": "Placeholder text for Policy of War; real card wording not yet transcribed. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "bottom_right": "03",
+    "description": "The First Regent must either enforce this Policy or change to a new Policy card.\n\nA Policy of War\n1. Collect Demand: Take 1 Trophy or Captive, but not Imperial or Regent pieces, from each Rival Regent. If they have none, take 1 agent from their supply as a Favor. If they have no agents, you may make them an Outlaw.\n2. Imperial Action: Give 1 Weapon to each Regent from the supply. If the supply is empty, give it from the Imperial Trust.",
     "name": "Policy of War",
-    "type": "Misc"
+    "type": "Edict"
   },
   "Campaign/other/piece_0_3.jpg": {
     "bottom_left": null,
-    "bottom_right": null,
-    "description": "Placeholder text for Policy of Peace; real card wording not yet transcribed. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "bottom_right": "04",
+    "description": "The First Regent must either enforce this Policy or change to a new Policy card.\n\nA Policy of Peace\n1. Collect Demand: Take 1 Relic or Psionic from each Regent, even you. Place it in the Imperial Trust on your First Regent tile. If a Rival Regent has none, take 1 agent from their supply as a Favor. If they have no agents, you may make them an Outlaw.\n2. Imperial Action: Each Regent gains their bonus city Power on uncovered city slots.",
     "name": "Policy of Peace",
-    "type": "Misc"
+    "type": "Edict"
   },
   "Campaign/other/piece_1_0.jpg": {
     "bottom_left": null,
-    "bottom_right": null,
-    "description": "Placeholder text for Policy of Escalation; real card wording not yet transcribed. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "bottom_right": "05",
+    "description": "The First Regent must either enforce this Policy or change to a new Policy card.\n\nA Policy of Escalation\n1. Collect Demand: Take 1 Weapon, Fuel, or Material from each Regent, even you. Place it in the Imperial Trust on your First Regent tile. If a Rival Regent has none, take 1 agent from their supply as a Favor. If they have no agents, you may make them an Outlaw.\n2. Imperial Action: Place 2 fresh Imperial ships in an Empire-controlled system. If there are none, place them at a Loyal starport.",
     "name": "Policy of Escalation",
-    "type": "Misc"
+    "type": "Edict"
   },
   "Campaign/other/piece_1_1.jpg": {
     "bottom_left": null,
-    "bottom_right": null,
-    "description": "Placeholder text for Imperial Regent; real card wording not yet transcribed. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "bottom_right": "06",
+    "description": "Tuck this partially under your Fate card.\nYou must follow the rules for Regents listed on the Empire Rules aid sheet.\nYou can become an Outlaw, flipping this title over, if you call a Summit.",
     "name": "Imperial Regent",
-    "type": "Misc"
+    "type": "Title"
   },
   "Campaign/other/piece_2_1.jpg": {
     "bottom_left": null,
-    "bottom_right": null,
-    "description": "Placeholder text for Flagship Upgrades Front; real card wording not yet transcribed. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "bottom_right": "10",
+    "description": "Damaged Upgrades still give benefits.\n\nSlipstream Drive\nPrelude: Once per turn, you may Catapult move either your Flagship alone or other ships from your Flagship.\n\nTractor Beam\nWhen your Flaghip is defending in battle, the attacker cannot collect raid dice.\n\nControl Array\nWhile your Flagship is in a gate, you may tax any cities in its cluster like they are Loyal. (Don't take Captives.)",
     "name": "Flagship Upgrades Front",
-    "type": "Misc"
+    "type": "Ability"
   },
   "Campaign/other/piece_3_1.jpg": {
     "bottom_left": null,
     "bottom_right": null,
-    "description": "Placeholder text for Event; real card wording not yet transcribed. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "description": "Mirror Lead, Add Event to Round End.\nTake actions like the lead card unless a Rival played an Event card or secured the Imperial Council this round. You cannot Lead this, Copy with this, or discard this to seize the initiative.\n\nAt the end of the round, after checking initiative, the player with initiative may call a Summit, then must roll an event. <crisis>: Resolve Crises. <edict>: Resolve Edicts. If the Imperial Council was secured this round, resolve it instead of this.",
     "name": "Event",
-    "type": "Misc"
+    "type": "Event"
   }
 }
