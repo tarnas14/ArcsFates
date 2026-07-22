@@ -3,16 +3,24 @@ theme:
   name: material
   features:
     - navigation.footer
+    - search.highlight
 extra_css:
   - css/extra.css
   - css/lightbox.css
+  - css/cards.css
 extra_javascript:
   - js/lightbox-plus-jquery.js
 extra:
   generator: false
+not_in_nav: |
+  /cards/**
+
 plugins:
   - search
   - offline
+  - gen-files:
+      scripts:
+        - gen_cards.py
   - mkdocs-nav-weight:
       section_renamed: false
       index_weight: -10
@@ -26,3 +34,6 @@ markdown_extensions:
   - pymdownx.superfences
   - md_in_html
   - attr_list
+
+hooks:
+  - hooks.py

@@ -1,0 +1,3755 @@
+{
+  "Campaign/1/Fate1.jpg": {
+    "mode": "overview",
+    "name": "Steward",
+    "type": "Fate",
+    "fate": 1,
+    "act": "Overview",
+    "section": "overview",
+    "alt": "Steward"
+  },
+  "Campaign/1/piece_3_4.jpg": {
+    "mode": "new",
+    "name": "Act I Setup",
+    "type": "Act card",
+    "fate": 1,
+    "act": "I",
+    "section": "act-cards",
+    "alt": "Setup"
+  },
+  "Campaign/1/back_3_4.jpg": {
+    "mode": "new",
+    "name": "Act I Objective",
+    "type": "Act card",
+    "fate": 1,
+    "act": "I",
+    "section": "act-cards",
+    "alt": "Objective"
+  },
+  "Campaign/1/piece_3_1.jpg": {
+    "mode": "new",
+    "name": "Act I Resolution",
+    "type": "Act card",
+    "fate": 1,
+    "act": "I",
+    "section": "act-cards",
+    "alt": "Resolution"
+  },
+  "Campaign/1/piece_3_3.jpg": {
+    "mode": "new",
+    "name": "Imperial Authority",
+    "type": "Campaign card",
+    "fate": 1,
+    "act": "I",
+    "section": "setup-details",
+    "alt": "Imperial Authority"
+  },
+  "Campaign/1/piece_3_2.jpg": {
+    "mode": "new",
+    "name": "Dealmakers",
+    "type": "Campaign card",
+    "fate": 1,
+    "act": "I",
+    "section": "setup-details",
+    "alt": "Dealmakers"
+  },
+  "Campaign/1/piece_3_0.jpg": {
+    "mode": "new",
+    "name": "Council Intrigue",
+    "type": "Campaign card",
+    "fate": 1,
+    "act": "I",
+    "section": "if-successful",
+    "alt": "Council Intrigue"
+  },
+  "Campaign/1/piece_2_6.jpg": {
+    "mode": "new",
+    "name": "Tax Collectors",
+    "type": "Campaign card",
+    "fate": 1,
+    "act": "I",
+    "section": "if-successful",
+    "alt": "Tax Collectors"
+  },
+  "Campaign/1/piece_2_5.jpg": {
+    "mode": "new",
+    "name": "Hunter Squads",
+    "type": "Campaign card",
+    "fate": 1,
+    "act": "I",
+    "section": "if-successful",
+    "alt": "Hunter Squads"
+  },
+  "Campaign/1/piece_2_4.jpg": {
+    "mode": "new",
+    "name": "Imperial Protectors",
+    "type": "Campaign card",
+    "fate": 1,
+    "act": "I",
+    "section": "if-successful",
+    "alt": "Imperial Protectors"
+  },
+  "Campaign/1/piece_2_3.jpg": {
+    "mode": "new",
+    "name": "Empire Falls",
+    "type": "Campaign card",
+    "fate": 1,
+    "act": "I",
+    "section": "if-failed",
+    "alt": "Empire Falls"
+  },
+  "Campaign/1/piece_2_2.jpg": {
+    "mode": "new",
+    "name": "Lesser Regent 1",
+    "type": "Campaign card",
+    "fate": 1,
+    "act": "I",
+    "section": "if-failed",
+    "alt": "Lesser Regent"
+  },
+  "Campaign/1/piece_2_1.jpg": {
+    "mode": "new",
+    "name": "Lesser Regent 2",
+    "type": "Campaign card",
+    "fate": 1,
+    "act": "I",
+    "section": "if-failed",
+    "alt": "Lesser Regent"
+  },
+  "Campaign/1/piece_2_0.jpg": {
+    "mode": "new",
+    "name": "Act II Setup",
+    "type": "Act card",
+    "fate": 1,
+    "act": "II",
+    "section": "act-cards",
+    "alt": "Setup"
+  },
+  "Campaign/1/back_2_0.jpg": {
+    "mode": "new",
+    "name": "Act II Objective",
+    "type": "Act card",
+    "fate": 1,
+    "act": "II",
+    "section": "act-cards",
+    "alt": "Objective"
+  },
+  "Campaign/1/piece_1_5.jpg": {
+    "mode": "new",
+    "name": "Act II Resolution",
+    "type": "Act card",
+    "fate": 1,
+    "act": "II",
+    "section": "act-cards",
+    "alt": "Resolution"
+  },
+  "Campaign/1/piece_1_6.jpg": {
+    "mode": "new",
+    "name": "Imperial Quorum",
+    "type": "Campaign card",
+    "fate": 1,
+    "act": "II",
+    "section": "setup-details",
+    "alt": "Imperial Quorum"
+  },
+  "Campaign/1/piece_1_4.jpg": {
+    "mode": "new",
+    "name": "Navy Reprisal",
+    "type": "Campaign card",
+    "fate": 1,
+    "act": "II",
+    "section": "if-successful",
+    "alt": "Navy Reprisal"
+  },
+  "Campaign/1/piece_1_3.jpg": {
+    "mode": "new",
+    "name": "Council Insiders",
+    "type": "Campaign card",
+    "fate": 1,
+    "act": "II",
+    "section": "if-successful",
+    "alt": "Council Insiders"
+  },
+  "Campaign/1/piece_1_2.jpg": {
+    "mode": "new",
+    "name": "Galactic Bards",
+    "type": "Campaign card",
+    "fate": 1,
+    "act": "II",
+    "section": "if-successful",
+    "alt": "Galactic Bards"
+  },
+  "Campaign/1/piece_1_1.jpg": {
+    "mode": "new",
+    "name": "Imperial Defector 1",
+    "type": "Campaign card",
+    "fate": 1,
+    "act": "II",
+    "section": "if-failed",
+    "alt": "Imperial Defector"
+  },
+  "Campaign/1/piece_1_0.jpg": {
+    "mode": "new",
+    "name": "Imperial Defector 2",
+    "type": "Campaign card",
+    "fate": 1,
+    "act": "II",
+    "section": "if-failed",
+    "alt": "Imperial Defector"
+  },
+  "Campaign/1/piece_0_6.jpg": {
+    "mode": "new",
+    "name": "Lesser Regent 3",
+    "type": "Campaign card",
+    "fate": 1,
+    "act": "II",
+    "section": "if-failed",
+    "alt": "Lesser Regent"
+  },
+  "Campaign/1/piece_0_5.jpg": {
+    "mode": "new",
+    "name": "Lesser Regent 4",
+    "type": "Campaign card",
+    "fate": 1,
+    "act": "II",
+    "section": "if-failed",
+    "alt": "Lesser Regent"
+  },
+  "Campaign/1/piece_0_4.jpg": {
+    "mode": "new",
+    "name": "Act III Setup",
+    "type": "Act card",
+    "fate": 1,
+    "act": "III",
+    "section": "act-cards",
+    "alt": "Setup"
+  },
+  "Campaign/1/back_0_4.jpg": {
+    "mode": "new",
+    "name": "Act III Objective",
+    "type": "Act card",
+    "fate": 1,
+    "act": "III",
+    "section": "act-cards",
+    "alt": "Objective"
+  },
+  "Campaign/1/piece_0_3.jpg": {
+    "mode": "new",
+    "name": "Imperial Sponsor",
+    "type": "Campaign card",
+    "fate": 1,
+    "act": "III",
+    "section": "setup-details",
+    "alt": "Imperial Sponsor"
+  },
+  "Campaign/1/piece_0_2.jpg": {
+    "mode": "new",
+    "name": "Govern With Authority 1",
+    "type": "Campaign card",
+    "fate": 1,
+    "act": "III",
+    "section": "setup-details",
+    "alt": "Govern With Authority"
+  },
+  "Campaign/1/piece_0_1.jpg": {
+    "mode": "new",
+    "name": "Govern With Authority 2",
+    "type": "Campaign card",
+    "fate": 1,
+    "act": "III",
+    "section": "setup-details",
+    "alt": "Govern With Authority"
+  },
+  "Campaign/1/piece_0_0.jpg": {
+    "mode": "new",
+    "name": "Govern With Authority 3",
+    "type": "Campaign card",
+    "fate": 1,
+    "act": "III",
+    "section": "setup-details",
+    "alt": "Govern With Authority"
+  },
+  "Campaign/2/Fate2.jpg": {
+    "mode": "overview",
+    "name": "Founder",
+    "type": "Fate",
+    "fate": 2,
+    "act": "Overview",
+    "section": "overview",
+    "alt": "Founder"
+  },
+  "Campaign/2/piece_3_5.jpg": {
+    "mode": "new",
+    "name": "Act I Setup",
+    "type": "Act card",
+    "fate": 2,
+    "act": "I",
+    "section": "act-cards",
+    "alt": "Setup"
+  },
+  "Campaign/2/back_3_5.jpg": {
+    "mode": "new",
+    "name": "Act I Objective",
+    "type": "Act card",
+    "fate": 2,
+    "act": "I",
+    "section": "act-cards",
+    "alt": "Objective"
+  },
+  "Campaign/2/piece_3_3.jpg": {
+    "mode": "new",
+    "name": "Act I Resolution",
+    "type": "Act card",
+    "fate": 2,
+    "act": "I",
+    "section": "act-cards",
+    "alt": "Resolution"
+  },
+  "Campaign/2/piece_3_4.jpg": {
+    "mode": "new",
+    "name": "Parade Fleets",
+    "type": "Campaign card",
+    "fate": 2,
+    "act": "I",
+    "section": "setup-details",
+    "alt": "Parade Fleets"
+  },
+  "Campaign/2/piece_3_2.jpg": {
+    "mode": "new",
+    "name": "Book of Liberation",
+    "type": "Campaign card",
+    "fate": 2,
+    "act": "I",
+    "section": "if-successful",
+    "alt": "Book of Liberation"
+  },
+  "Campaign/2/piece_3_1.jpg": {
+    "mode": "new",
+    "name": "Political Intrigue 1",
+    "type": "Campaign card",
+    "fate": 2,
+    "act": "I",
+    "section": "if-successful",
+    "alt": "Political Intrigue"
+  },
+  "Campaign/2/piece_3_0.jpg": {
+    "mode": "new",
+    "name": "Political Intrigue 2",
+    "type": "Campaign card",
+    "fate": 2,
+    "act": "I",
+    "section": "if-successful",
+    "alt": "Political Intrigue"
+  },
+  "Campaign/2/piece_2_6.jpg": {
+    "mode": "new",
+    "name": "Political Intrigue 3",
+    "type": "Campaign card",
+    "fate": 2,
+    "act": "I",
+    "section": "if-successful",
+    "alt": "Political Intrigue"
+  },
+  "Campaign/2/piece_2_5.jpg": {
+    "mode": "new",
+    "name": "Construction Union 1",
+    "type": "Campaign card",
+    "fate": 2,
+    "act": "I",
+    "section": "if-failed",
+    "alt": "Construction Union"
+  },
+  "Campaign/2/piece_2_4.jpg": {
+    "mode": "new",
+    "name": "Construction Union 2",
+    "type": "Campaign card",
+    "fate": 2,
+    "act": "I",
+    "section": "if-failed",
+    "alt": "Construction Union"
+  },
+  "Campaign/2/piece_2_3.jpg": {
+    "mode": "new",
+    "name": "Admin Union 1",
+    "type": "Campaign card",
+    "fate": 2,
+    "act": "I",
+    "section": "if-failed",
+    "alt": "Admin Union"
+  },
+  "Campaign/2/piece_2_2.jpg": {
+    "mode": "new",
+    "name": "Admin Union 2",
+    "type": "Campaign card",
+    "fate": 2,
+    "act": "I",
+    "section": "if-failed",
+    "alt": "Admin Union"
+  },
+  "Campaign/2/piece_2_1.jpg": {
+    "mode": "new",
+    "name": "Act II Setup",
+    "type": "Act card",
+    "fate": 2,
+    "act": "II",
+    "section": "act-cards",
+    "alt": "Setup"
+  },
+  "Campaign/2/back_2_1.jpg": {
+    "mode": "new",
+    "name": "Act II Objective",
+    "type": "Act card",
+    "fate": 2,
+    "act": "II",
+    "section": "act-cards",
+    "alt": "Objective"
+  },
+  "Campaign/2/piece_0_4.jpg": {
+    "mode": "new",
+    "name": "Act II Resolution",
+    "type": "Act card",
+    "fate": 2,
+    "act": "II",
+    "section": "act-cards",
+    "alt": "Resolution"
+  },
+  "Campaign/2/piece_2_0.jpg": {
+    "mode": "new",
+    "name": "Founder of the Commonwealth",
+    "type": "Campaign card",
+    "fate": 2,
+    "act": "II",
+    "section": "setup-details",
+    "alt": "Founder of the Commonwealth"
+  },
+  "Campaign/2/piece_1_6.jpg": {
+    "mode": "new",
+    "name": "Commonwealth Ambition",
+    "type": "Campaign card",
+    "fate": 2,
+    "act": "II",
+    "section": "setup-details",
+    "alt": "Commonwealth Ambition"
+  },
+  "Campaign/2/piece_1_5.jpg": {
+    "mode": "new",
+    "name": "Call for Armistice",
+    "type": "Campaign card",
+    "fate": 2,
+    "act": "II",
+    "section": "setup-details",
+    "alt": "Call for Armistice"
+  },
+  "Campaign/2/piece_1_4.jpg": {
+    "mode": "new",
+    "name": "Armistice 1",
+    "type": "Campaign card",
+    "fate": 2,
+    "act": "II",
+    "section": "setup-details",
+    "alt": "Armistice"
+  },
+  "Campaign/2/piece_1_3.jpg": {
+    "mode": "new",
+    "name": "Armistice 2",
+    "type": "Campaign card",
+    "fate": 2,
+    "act": "II",
+    "section": "setup-details",
+    "alt": "Armistice"
+  },
+  "Campaign/2/piece_1_2.jpg": {
+    "mode": "new",
+    "name": "Member of the Commonwealth 1",
+    "type": "Campaign card",
+    "fate": 2,
+    "act": "II",
+    "section": "setup-details",
+    "alt": "Member of the Commonwealth"
+  },
+  "Campaign/2/piece_1_1.jpg": {
+    "mode": "new",
+    "name": "Member of the Commonwealth 2",
+    "type": "Campaign card",
+    "fate": 2,
+    "act": "II",
+    "section": "setup-details",
+    "alt": "Member of the Commonwealth"
+  },
+  "Campaign/2/piece_1_0.jpg": {
+    "mode": "new",
+    "name": "Member of the Commonwealth 3",
+    "type": "Campaign card",
+    "fate": 2,
+    "act": "II",
+    "section": "setup-details",
+    "alt": "Member of the Commonwealth"
+  },
+  "Campaign/2/piece_0_6.jpg": {
+    "mode": "new",
+    "name": "Member of the Commonwealth 4",
+    "type": "Campaign card",
+    "fate": 2,
+    "act": "II",
+    "section": "setup-details",
+    "alt": "Member of the Commonwealth"
+  },
+  "Campaign/2/piece_0_5.jpg": {
+    "mode": "new",
+    "name": "Commonwealth Membership",
+    "type": "Campaign card",
+    "fate": 2,
+    "act": "II",
+    "section": "setup-details",
+    "alt": "Commonwealth Membership"
+  },
+  "Campaign/2/piece_0_3.jpg": {
+    "mode": "new",
+    "name": "Spirit of Freedom",
+    "type": "Campaign card",
+    "fate": 2,
+    "act": "II",
+    "section": "if-successful",
+    "alt": "Spirit of Freedom"
+  },
+  "Campaign/2/piece_0_2.jpg": {
+    "mode": "new",
+    "name": "Act III Setup",
+    "type": "Act card",
+    "fate": 2,
+    "act": "III",
+    "section": "act-cards",
+    "alt": "Setup"
+  },
+  "Campaign/2/back_0_2.jpg": {
+    "mode": "new",
+    "name": "Act III Objective",
+    "type": "Act card",
+    "fate": 2,
+    "act": "III",
+    "section": "act-cards",
+    "alt": "Objective"
+  },
+  "Campaign/2/piece_0_1.jpg": {
+    "mode": "new",
+    "name": "Mass Call for Armistice",
+    "type": "Campaign card",
+    "fate": 2,
+    "act": "III",
+    "section": "setup-details",
+    "alt": "Mass Call for Armistice"
+  },
+  "Campaign/2/piece_0_0.jpg": {
+    "mode": "new",
+    "name": "Freedom Fighters",
+    "type": "Campaign card",
+    "fate": 2,
+    "act": "III",
+    "section": "setup-details",
+    "alt": "Freedom Fighters"
+  },
+  "Campaign/3/Fate3.jpg": {
+    "mode": "overview",
+    "name": "Magnate",
+    "type": "Fate",
+    "fate": 3,
+    "act": "Overview",
+    "section": "overview",
+    "alt": "Magnate"
+  },
+  "Campaign/3/piece_3_5.jpg": {
+    "mode": "new",
+    "name": "Act I Setup",
+    "type": "Act card",
+    "fate": 3,
+    "act": "I",
+    "section": "act-cards",
+    "alt": "Setup"
+  },
+  "Campaign/3/back_3_5.jpg": {
+    "mode": "new",
+    "name": "Act I Objective",
+    "type": "Act card",
+    "fate": 3,
+    "act": "I",
+    "section": "act-cards",
+    "alt": "Objective"
+  },
+  "Campaign/3/piece_3_3.jpg": {
+    "mode": "new",
+    "name": "Act I Resolution",
+    "type": "Act card",
+    "fate": 3,
+    "act": "I",
+    "section": "act-cards",
+    "alt": "Resolution"
+  },
+  "Campaign/3/piece_3_4.jpg": {
+    "mode": "new",
+    "name": "Merchant League",
+    "type": "Campaign card",
+    "fate": 3,
+    "act": "I",
+    "section": "setup-details",
+    "alt": "Merchant League"
+  },
+  "Campaign/3/piece_3_2.jpg": {
+    "mode": "new",
+    "name": "Elder Broker",
+    "type": "Campaign card",
+    "fate": 3,
+    "act": "I",
+    "section": "if-successful",
+    "alt": "Elder Broker"
+  },
+  "Campaign/3/piece_3_1.jpg": {
+    "mode": "new",
+    "name": "Relic Fence",
+    "type": "Campaign card",
+    "fate": 3,
+    "act": "I",
+    "section": "if-successful",
+    "alt": "Relic Fence"
+  },
+  "Campaign/3/piece_3_0.jpg": {
+    "mode": "new",
+    "name": "Prison Wardens",
+    "type": "Campaign card",
+    "fate": 3,
+    "act": "I",
+    "section": "if-successful",
+    "alt": "Prison Wardens"
+  },
+  "Campaign/3/piece_2_6.jpg": {
+    "mode": "new",
+    "name": "Material Cartel",
+    "type": "Campaign card",
+    "fate": 3,
+    "act": "I",
+    "section": "if-failed",
+    "alt": "Material Cartel"
+  },
+  "Campaign/3/piece_2_5.jpg": {
+    "mode": "new",
+    "name": "Fuel Cartel",
+    "type": "Campaign card",
+    "fate": 3,
+    "act": "I",
+    "section": "if-failed",
+    "alt": "Fuel Cartel"
+  },
+  "Campaign/3/piece_2_4.jpg": {
+    "mode": "new",
+    "name": "Weapon Cartel",
+    "type": "Campaign card",
+    "fate": 3,
+    "act": "I",
+    "section": "if-failed",
+    "alt": "Weapon Cartel"
+  },
+  "Campaign/3/piece_2_3.jpg": {
+    "mode": "new",
+    "name": "Psionic Cartel",
+    "type": "Campaign card",
+    "fate": 3,
+    "act": "I",
+    "section": "if-failed",
+    "alt": "Psionic Cartel"
+  },
+  "Campaign/3/piece_2_2.jpg": {
+    "mode": "new",
+    "name": "Relic Cartel",
+    "type": "Campaign card",
+    "fate": 3,
+    "act": "I",
+    "section": "if-failed",
+    "alt": "Relic Cartel"
+  },
+  "Campaign/3/piece_2_1.jpg": {
+    "mode": "new",
+    "name": "Act II Setup",
+    "type": "Act card",
+    "fate": 3,
+    "act": "II",
+    "section": "act-cards",
+    "alt": "Setup"
+  },
+  "Campaign/3/back_2_1.jpg": {
+    "mode": "new",
+    "name": "Act II Objective",
+    "type": "Act card",
+    "fate": 3,
+    "act": "II",
+    "section": "act-cards",
+    "alt": "Objective"
+  },
+  "Campaign/3/piece_0_6.jpg": {
+    "mode": "new",
+    "name": "Act II Resolution",
+    "type": "Act card",
+    "fate": 3,
+    "act": "II",
+    "section": "act-cards",
+    "alt": "Resolution"
+  },
+  "Campaign/3/piece_2_0.jpg": {
+    "mode": "new",
+    "name": "Material Monopoly",
+    "type": "Campaign card",
+    "fate": 3,
+    "act": "II",
+    "section": "setup-details",
+    "alt": "Material Monopoly"
+  },
+  "Campaign/3/piece_1_6.jpg": {
+    "mode": "new",
+    "name": "Fuel Monopoly 1",
+    "type": "Campaign card",
+    "fate": 3,
+    "act": "II",
+    "section": "setup-details",
+    "alt": "Fuel Monopoly"
+  },
+  "Campaign/3/piece_1_5.jpg": {
+    "mode": "new",
+    "name": "Relic Monopoly",
+    "type": "Campaign card",
+    "fate": 3,
+    "act": "II",
+    "section": "setup-details",
+    "alt": "Relic Monopoly"
+  },
+  "Campaign/3/piece_1_4.jpg": {
+    "mode": "new",
+    "name": "Psionic Monopoly",
+    "type": "Campaign card",
+    "fate": 3,
+    "act": "II",
+    "section": "setup-details",
+    "alt": "Psionic Monopoly"
+  },
+  "Campaign/3/piece_1_3.jpg": {
+    "mode": "new",
+    "name": "Fuel Monopoly 2",
+    "type": "Campaign card",
+    "fate": 3,
+    "act": "II",
+    "section": "setup-details",
+    "alt": "Fuel Monopoly"
+  },
+  "Campaign/3/piece_1_2.jpg": {
+    "mode": "new",
+    "name": "Gain Monopolies",
+    "type": "Campaign card",
+    "fate": 3,
+    "act": "II",
+    "section": "setup-details",
+    "alt": "Gain Monopolies"
+  },
+  "Campaign/3/piece_1_1.jpg": {
+    "mode": "new",
+    "name": "Monopoly Consent",
+    "type": "Campaign card",
+    "fate": 3,
+    "act": "II",
+    "section": "setup-details",
+    "alt": "Monopoly Consent"
+  },
+  "Campaign/3/piece_1_0.jpg": {
+    "mode": "new",
+    "name": "War Profiteering",
+    "type": "Campaign card",
+    "fate": 3,
+    "act": "II",
+    "section": "setup-details",
+    "alt": "War Profiteering"
+  },
+  "Campaign/3/piece_0_5.jpg": {
+    "mode": "new",
+    "name": "Prospectors",
+    "type": "Campaign card",
+    "fate": 3,
+    "act": "II",
+    "section": "if-successful",
+    "alt": "Prospectors"
+  },
+  "Campaign/3/piece_0_4.jpg": {
+    "mode": "new",
+    "name": "Extortion 1",
+    "type": "Campaign card",
+    "fate": 3,
+    "act": "II",
+    "section": "if-failed",
+    "alt": "Extortion"
+  },
+  "Campaign/3/piece_0_3.jpg": {
+    "mode": "new",
+    "name": "Extortion 2",
+    "type": "Campaign card",
+    "fate": 3,
+    "act": "II",
+    "section": "if-failed",
+    "alt": "Extortion"
+  },
+  "Campaign/3/piece_0_2.jpg": {
+    "mode": "new",
+    "name": "Act III Setup",
+    "type": "Act card",
+    "fate": 3,
+    "act": "III",
+    "section": "act-cards",
+    "alt": "Setup"
+  },
+  "Campaign/3/back_0_2.jpg": {
+    "mode": "new",
+    "name": "Act III Objective",
+    "type": "Act card",
+    "fate": 3,
+    "act": "III",
+    "section": "act-cards",
+    "alt": "Objective"
+  },
+  "Campaign/3/piece_0_1.jpg": {
+    "mode": "new",
+    "name": "Closed Economy",
+    "type": "Campaign card",
+    "fate": 3,
+    "act": "III",
+    "section": "setup-details",
+    "alt": "Closed Economy"
+  },
+  "Campaign/3/back_0_1.jpg": {
+    "mode": "new",
+    "name": "Open Economy",
+    "type": "Campaign card",
+    "fate": 3,
+    "act": "III",
+    "section": "setup-details",
+    "alt": "Open Economy"
+  },
+  "Campaign/3/piece_0_0.jpg": {
+    "mode": "new",
+    "name": "Closed & Open Economy",
+    "type": "Campaign card",
+    "fate": 3,
+    "act": "III",
+    "section": "setup-details",
+    "alt": "Closed & Open Economy"
+  },
+  "Campaign/4/Fate4.jpg": {
+    "mode": "overview",
+    "name": "Advocate",
+    "type": "Fate",
+    "fate": 4,
+    "act": "Overview",
+    "section": "overview",
+    "alt": "Advocate"
+  },
+  "Campaign/4/piece_3_4.jpg": {
+    "mode": "new",
+    "name": "Act I Setup",
+    "type": "Act card",
+    "fate": 4,
+    "act": "I",
+    "section": "act-cards",
+    "alt": "Setup"
+  },
+  "Campaign/4/back_3_4.jpg": {
+    "mode": "new",
+    "name": "Act I Objective",
+    "type": "Act card",
+    "fate": 4,
+    "act": "I",
+    "section": "act-cards",
+    "alt": "Objective"
+  },
+  "Campaign/4/piece_3_1.jpg": {
+    "mode": "new",
+    "name": "Act I Resolution",
+    "type": "Act card",
+    "fate": 4,
+    "act": "I",
+    "section": "act-cards",
+    "alt": "Resolution"
+  },
+  "Campaign/4/piece_3_3.jpg": {
+    "mode": "new",
+    "name": "Guild Investigators",
+    "type": "Campaign card",
+    "fate": 4,
+    "act": "I",
+    "section": "setup-details",
+    "alt": "Guild Investigators"
+  },
+  "Campaign/4/piece_3_2.jpg": {
+    "mode": "new",
+    "name": "Guild Overseers",
+    "type": "Campaign card",
+    "fate": 4,
+    "act": "I",
+    "section": "setup-details",
+    "alt": "Guild Overseers"
+  },
+  "Campaign/4/piece_3_0.jpg": {
+    "mode": "new",
+    "name": "Material Liasons",
+    "type": "Campaign card",
+    "fate": 4,
+    "act": "I",
+    "section": "if-successful",
+    "alt": "Material Liasons"
+  },
+  "Campaign/4/piece_2_6.jpg": {
+    "mode": "new",
+    "name": "Fuel Liasons",
+    "type": "Campaign card",
+    "fate": 4,
+    "act": "I",
+    "section": "if-successful",
+    "alt": "Fuel Liasons"
+  },
+  "Campaign/4/piece_2_5.jpg": {
+    "mode": "new",
+    "name": "Weapons Liasons",
+    "type": "Campaign card",
+    "fate": 4,
+    "act": "I",
+    "section": "if-successful",
+    "alt": "Weapons Liasons"
+  },
+  "Campaign/4/piece_2_4.jpg": {
+    "mode": "new",
+    "name": "Relic Liasons",
+    "type": "Campaign card",
+    "fate": 4,
+    "act": "I",
+    "section": "if-successful",
+    "alt": "Relic Liasons"
+  },
+  "Campaign/4/piece_2_3.jpg": {
+    "mode": "new",
+    "name": "Psionic Liasons",
+    "type": "Campaign card",
+    "fate": 4,
+    "act": "I",
+    "section": "if-successful",
+    "alt": "Psionic Liasons"
+  },
+  "Campaign/4/piece_2_2.jpg": {
+    "mode": "new",
+    "name": "Diplomatic Fiasco",
+    "type": "Campaign card",
+    "fate": 4,
+    "act": "I",
+    "section": "if-successful",
+    "alt": "Diplomatic Fiasco"
+  },
+  "Campaign/4/piece_2_1.jpg": {
+    "mode": "new",
+    "name": "Guild Struggle",
+    "type": "Campaign card",
+    "fate": 4,
+    "act": "I",
+    "section": "if-failed",
+    "alt": "Guild Struggle"
+  },
+  "Campaign/4/piece_2_0.jpg": {
+    "mode": "new",
+    "name": "Act II Setup",
+    "type": "Act card",
+    "fate": 4,
+    "act": "II",
+    "section": "act-cards",
+    "alt": "Setup"
+  },
+  "Campaign/4/back_2_0.jpg": {
+    "mode": "new",
+    "name": "Act II Objective",
+    "type": "Act card",
+    "fate": 4,
+    "act": "II",
+    "section": "act-cards",
+    "alt": "Objective"
+  },
+  "Campaign/4/piece_1_4.jpg": {
+    "mode": "new",
+    "name": "Act II Resolution",
+    "type": "Act card",
+    "fate": 4,
+    "act": "II",
+    "section": "act-cards",
+    "alt": "Resolution"
+  },
+  "Campaign/4/piece_1_6.jpg": {
+    "mode": "new",
+    "name": "Advocate's Demand",
+    "type": "Campaign card",
+    "fate": 4,
+    "act": "II",
+    "section": "setup-details",
+    "alt": "Advocate's Demand"
+  },
+  "Campaign/4/piece_1_5.jpg": {
+    "mode": "new",
+    "name": "Guild Negotiations",
+    "type": "Campaign card",
+    "fate": 4,
+    "act": "II",
+    "section": "setup-details",
+    "alt": "Guild Negotiations"
+  },
+  "Campaign/4/piece_1_3.jpg": {
+    "mode": "new",
+    "name": "Guild Fair",
+    "type": "Campaign card",
+    "fate": 4,
+    "act": "II",
+    "section": "if-successful",
+    "alt": "Guild Fair"
+  },
+  "Campaign/4/piece_1_2.jpg": {
+    "mode": "new",
+    "name": "Material Guildmasters",
+    "type": "Campaign card",
+    "fate": 4,
+    "act": "II",
+    "section": "if-successful",
+    "alt": "Material Guildmasters"
+  },
+  "Campaign/4/piece_1_1.jpg": {
+    "mode": "new",
+    "name": "Fuel Guildmasters",
+    "type": "Campaign card",
+    "fate": 4,
+    "act": "II",
+    "section": "if-successful",
+    "alt": "Fuel Guildmasters"
+  },
+  "Campaign/4/piece_1_0.jpg": {
+    "mode": "new",
+    "name": "Weapons Guildmasters",
+    "type": "Campaign card",
+    "fate": 4,
+    "act": "II",
+    "section": "if-successful",
+    "alt": "Weapons Guildmasters"
+  },
+  "Campaign/4/piece_0_6.jpg": {
+    "mode": "new",
+    "name": "Relic Guildmasters",
+    "type": "Campaign card",
+    "fate": 4,
+    "act": "II",
+    "section": "if-successful",
+    "alt": "Relic Guildmasters"
+  },
+  "Campaign/4/piece_0_5.jpg": {
+    "mode": "new",
+    "name": "Psionic Guildmasters",
+    "type": "Campaign card",
+    "fate": 4,
+    "act": "II",
+    "section": "if-successful",
+    "alt": "Psionic Guildmasters"
+  },
+  "Campaign/4/piece_0_4.jpg": {
+    "mode": "new",
+    "name": "Guilds Withdraw",
+    "type": "Campaign card",
+    "fate": 4,
+    "act": "II",
+    "section": "if-failed",
+    "alt": "Guilds Withdraw"
+  },
+  "Campaign/4/piece_0_3.jpg": {
+    "mode": "new",
+    "name": "Act III Setup",
+    "type": "Act card",
+    "fate": 4,
+    "act": "III",
+    "section": "act-cards",
+    "alt": "Setup"
+  },
+  "Campaign/4/back_0_3.jpg": {
+    "mode": "new",
+    "name": "Act III Objective",
+    "type": "Act card",
+    "fate": 4,
+    "act": "III",
+    "section": "act-cards",
+    "alt": "Objective"
+  },
+  "Campaign/4/piece_0_2.jpg": {
+    "mode": "new",
+    "name": "Guild Loyalty",
+    "type": "Campaign card",
+    "fate": 4,
+    "act": "III",
+    "section": "setup-details",
+    "alt": "Guild Loyalty"
+  },
+  "Campaign/4/piece_0_1.jpg": {
+    "mode": "new",
+    "name": "Guild Supremacy 1",
+    "type": "Campaign card",
+    "fate": 4,
+    "act": "III",
+    "section": "setup-details",
+    "alt": "Guild Supremacy"
+  },
+  "Campaign/4/piece_0_0.jpg": {
+    "mode": "new",
+    "name": "Guild Supremacy 2",
+    "type": "Campaign card",
+    "fate": 4,
+    "act": "III",
+    "section": "setup-details",
+    "alt": "Guild Supremacy"
+  },
+  "Campaign/5/Fate5.jpg": {
+    "mode": "overview",
+    "name": "Advocate",
+    "type": "Fate",
+    "fate": 5,
+    "act": "Overview",
+    "section": "overview",
+    "alt": "Advocate"
+  },
+  "Campaign/5/piece_2_6.jpg": {
+    "mode": "new",
+    "name": "Act I Setup",
+    "type": "Act card",
+    "fate": 5,
+    "act": "I",
+    "section": "act-cards",
+    "alt": "Setup"
+  },
+  "Campaign/5/back_2_6.jpg": {
+    "mode": "new",
+    "name": "Act I Objective",
+    "type": "Act card",
+    "fate": 5,
+    "act": "I",
+    "section": "act-cards",
+    "alt": "Objective"
+  },
+  "Campaign/5/piece_2_0.jpg": {
+    "mode": "new",
+    "name": "Act I Resolution",
+    "type": "Act card",
+    "fate": 5,
+    "act": "I",
+    "section": "act-cards",
+    "alt": "Resolution"
+  },
+  "Campaign/5/piece_2_5.jpg": {
+    "mode": "new",
+    "name": "Golem Beacon",
+    "type": "Campaign card",
+    "fate": 5,
+    "act": "I",
+    "section": "setup-details",
+    "alt": "Golem Beacon"
+  },
+  "Campaign/5/piece_2_4.jpg": {
+    "mode": "new",
+    "name": "Golem Hearth",
+    "type": "Campaign card",
+    "fate": 5,
+    "act": "I",
+    "section": "setup-details",
+    "alt": "Golem Hearth"
+  },
+  "Campaign/5/piece_2_3.jpg": {
+    "mode": "new",
+    "name": "Stone-Speakers",
+    "type": "Campaign card",
+    "fate": 5,
+    "act": "I",
+    "section": "setup-details",
+    "alt": "Stone-Speakers"
+  },
+  "Campaign/5/piece_2_2.jpg": {
+    "mode": "new",
+    "name": "Golems",
+    "type": "Campaign card",
+    "fate": 5,
+    "act": "I",
+    "section": "setup-details",
+    "alt": "Golems"
+  },
+  "Campaign/5/piece_2_1.jpg": {
+    "mode": "new",
+    "name": "Golem Actions",
+    "type": "Campaign card",
+    "fate": 5,
+    "act": "I",
+    "section": "setup-details",
+    "alt": "Golem Actions"
+  },
+  "Campaign/5/piece_1_6.jpg": {
+    "mode": "new",
+    "name": "Unstable Harvester",
+    "type": "Campaign card",
+    "fate": 5,
+    "act": "I",
+    "section": "if-successful",
+    "alt": "Unstable Harvester"
+  },
+  "Campaign/5/piece_1_5.jpg": {
+    "mode": "new",
+    "name": "Unstable Seeker",
+    "type": "Campaign card",
+    "fate": 5,
+    "act": "I",
+    "section": "if-successful",
+    "alt": "Unstable Seeker"
+  },
+  "Campaign/5/piece_1_4.jpg": {
+    "mode": "new",
+    "name": "Unstable Protector",
+    "type": "Campaign card",
+    "fate": 5,
+    "act": "I",
+    "section": "if-successful",
+    "alt": "Unstable Protector"
+  },
+  "Campaign/5/piece_1_3.jpg": {
+    "mode": "new",
+    "name": "Unstable Warrior",
+    "type": "Campaign card",
+    "fate": 5,
+    "act": "I",
+    "section": "if-successful",
+    "alt": "Unstable Warrior"
+  },
+  "Campaign/5/piece_1_2.jpg": {
+    "mode": "new",
+    "name": "Act II Setup",
+    "type": "Act card",
+    "fate": 5,
+    "act": "II",
+    "section": "act-cards",
+    "alt": "Setup"
+  },
+  "Campaign/5/back_1_2.jpg": {
+    "mode": "new",
+    "name": "Act II Objective",
+    "type": "Act card",
+    "fate": 5,
+    "act": "II",
+    "section": "act-cards",
+    "alt": "Objective"
+  },
+  "Campaign/5/piece_0_5.jpg": {
+    "mode": "new",
+    "name": "Act II Resolution",
+    "type": "Act card",
+    "fate": 5,
+    "act": "II",
+    "section": "act-cards",
+    "alt": "Resolution"
+  },
+  "Campaign/5/piece_1_1.jpg": {
+    "mode": "new",
+    "name": "Librarians",
+    "type": "Campaign card",
+    "fate": 5,
+    "act": "II",
+    "section": "setup-details",
+    "alt": "Librarians"
+  },
+  "Campaign/5/piece_1_0.jpg": {
+    "mode": "new",
+    "name": "Knowledge Set Free",
+    "type": "Campaign card",
+    "fate": 5,
+    "act": "II",
+    "section": "setup-details",
+    "alt": "Knowledge Set Free"
+  },
+  "Campaign/5/piece_0_6.jpg": {
+    "mode": "new",
+    "name": "Event",
+    "type": "Campaign card",
+    "fate": 5,
+    "act": "II",
+    "section": "setup-details",
+    "alt": "Event"
+  },
+  "Campaign/5/piece_0_4.jpg": {
+    "mode": "new",
+    "name": "Golem Worship 1",
+    "type": "Campaign card",
+    "fate": 5,
+    "act": "II",
+    "section": "if-successful",
+    "alt": "Golem Worship"
+  },
+  "Campaign/5/piece_0_3.jpg": {
+    "mode": "new",
+    "name": "Golem Worship 2",
+    "type": "Campaign card",
+    "fate": 5,
+    "act": "II",
+    "section": "if-successful",
+    "alt": "Golem Worship"
+  },
+  "Campaign/5/piece_0_2.jpg": {
+    "mode": "new",
+    "name": "Golem Worship 3",
+    "type": "Campaign card",
+    "fate": 5,
+    "act": "II",
+    "section": "if-successful",
+    "alt": "Golem Worship"
+  },
+  "Campaign/5/piece_0_1.jpg": {
+    "mode": "new",
+    "name": "Act III Setup",
+    "type": "Act card",
+    "fate": 5,
+    "act": "III",
+    "section": "act-cards",
+    "alt": "Setup"
+  },
+  "Campaign/5/back_0_1.jpg": {
+    "mode": "new",
+    "name": "Act III Objective",
+    "type": "Act card",
+    "fate": 5,
+    "act": "III",
+    "section": "act-cards",
+    "alt": "Objective"
+  },
+  "Campaign/5/piece_0_0.jpg": {
+    "mode": "new",
+    "name": "Golems Sate Their Appetite",
+    "type": "Campaign card",
+    "fate": 5,
+    "act": "III",
+    "section": "setup-details",
+    "alt": "Golems Sate Their Appetite"
+  },
+  "Campaign/6/Fate6.jpg": {
+    "mode": "overview",
+    "name": "Partisan",
+    "type": "Fate",
+    "fate": 6,
+    "act": "Overview",
+    "section": "overview",
+    "alt": "Partisan"
+  },
+  "Campaign/6/piece_3_3.jpg": {
+    "mode": "new",
+    "name": "Act I Setup",
+    "type": "Act card",
+    "fate": 6,
+    "act": "I",
+    "section": "act-cards",
+    "alt": "Setup"
+  },
+  "Campaign/6/back_3_3.jpg": {
+    "mode": "new",
+    "name": "Act I Objective",
+    "type": "Act card",
+    "fate": 6,
+    "act": "I",
+    "section": "act-cards",
+    "alt": "Objective"
+  },
+  "Campaign/6/piece_3_0.jpg": {
+    "mode": "new",
+    "name": "Act I Resolution",
+    "type": "Act card",
+    "fate": 6,
+    "act": "I",
+    "section": "act-cards",
+    "alt": "Resolution"
+  },
+  "Campaign/6/piece_3_2.jpg": {
+    "mode": "new",
+    "name": "Informants",
+    "type": "Campaign card",
+    "fate": 6,
+    "act": "I",
+    "section": "setup-details",
+    "alt": "Informants"
+  },
+  "Campaign/6/piece_3_1.jpg": {
+    "mode": "new",
+    "name": "Partisan Seizing 1",
+    "type": "Campaign card",
+    "fate": 6,
+    "act": "I",
+    "section": "setup-details",
+    "alt": "Partisan Seizing"
+  },
+  "Campaign/6/piece_2_6.jpg": {
+    "mode": "new",
+    "name": "Loyal Engineers",
+    "type": "Campaign card",
+    "fate": 6,
+    "act": "I",
+    "section": "if-successful",
+    "alt": "Loyal Engineers"
+  },
+  "Campaign/6/piece_2_5.jpg": {
+    "mode": "new",
+    "name": "Loyal Pilots",
+    "type": "Campaign card",
+    "fate": 6,
+    "act": "I",
+    "section": "if-successful",
+    "alt": "Loyal Pilots"
+  },
+  "Campaign/6/piece_2_4.jpg": {
+    "mode": "new",
+    "name": "Loyal Marines",
+    "type": "Campaign card",
+    "fate": 6,
+    "act": "I",
+    "section": "if-successful",
+    "alt": "Loyal Marines"
+  },
+  "Campaign/6/piece_2_3.jpg": {
+    "mode": "new",
+    "name": "Loyal Empahts",
+    "type": "Campaign card",
+    "fate": 6,
+    "act": "I",
+    "section": "if-successful",
+    "alt": "Loyal Empahts"
+  },
+  "Campaign/6/piece_2_2.jpg": {
+    "mode": "new",
+    "name": "Loyal Keepers",
+    "type": "Campaign card",
+    "fate": 6,
+    "act": "I",
+    "section": "if-successful",
+    "alt": "Loyal Keepers"
+  },
+  "Campaign/6/piece_2_1.jpg": {
+    "mode": "new",
+    "name": "Galactic Bards",
+    "type": "Campaign card",
+    "fate": 6,
+    "act": "I",
+    "section": "if-successful",
+    "alt": "Galactic Bards"
+  },
+  "Campaign/6/piece_2_0.jpg": {
+    "mode": "new",
+    "name": "Spacing Union 1",
+    "type": "Campaign card",
+    "fate": 6,
+    "act": "I",
+    "section": "if-failed",
+    "alt": "Spacing Union"
+  },
+  "Campaign/6/piece_1_6.jpg": {
+    "mode": "new",
+    "name": "Arms Union 1",
+    "type": "Campaign card",
+    "fate": 6,
+    "act": "I",
+    "section": "if-failed",
+    "alt": "Arms Union"
+  },
+  "Campaign/6/piece_1_5.jpg": {
+    "mode": "new",
+    "name": "Outrage Spreads 1",
+    "type": "Campaign card",
+    "fate": 6,
+    "act": "I",
+    "section": "if-failed",
+    "alt": "Outrage Spreads"
+  },
+  "Campaign/6/piece_1_4.jpg": {
+    "mode": "new",
+    "name": "Outrage Spreads 2",
+    "type": "Campaign card",
+    "fate": 6,
+    "act": "I",
+    "section": "if-failed",
+    "alt": "Outrage Spreads"
+  },
+  "Campaign/6/piece_1_3.jpg": {
+    "mode": "new",
+    "name": "Act II Setup",
+    "type": "Act card",
+    "fate": 6,
+    "act": "II",
+    "section": "act-cards",
+    "alt": "Setup"
+  },
+  "Campaign/6/back_1_3.jpg": {
+    "mode": "new",
+    "name": "Act II Objective",
+    "type": "Act card",
+    "fate": 6,
+    "act": "II",
+    "section": "act-cards",
+    "alt": "Objective"
+  },
+  "Campaign/6/piece_1_0.jpg": {
+    "mode": "new",
+    "name": "Act II Resolution",
+    "type": "Act card",
+    "fate": 6,
+    "act": "II",
+    "section": "act-cards",
+    "alt": "Resolution"
+  },
+  "Campaign/6/piece_1_2.jpg": {
+    "mode": "new",
+    "name": "Partisan Seizing 2",
+    "type": "Campaign card",
+    "fate": 6,
+    "act": "II",
+    "section": "setup-details",
+    "alt": "Partisan Seizing"
+  },
+  "Campaign/6/piece_1_1.jpg": {
+    "mode": "new",
+    "name": "Guilds Decry Terror 1",
+    "type": "Campaign card",
+    "fate": 6,
+    "act": "II",
+    "section": "setup-details",
+    "alt": "Guilds Decry Terror"
+  },
+  "Campaign/6/piece_0_6.jpg": {
+    "mode": "new",
+    "name": "Guilds Decry Terror 2",
+    "type": "Campaign card",
+    "fate": 6,
+    "act": "II",
+    "section": "if-successful",
+    "alt": "Guilds Decry Terror"
+  },
+  "Campaign/6/piece_0_5.jpg": {
+    "mode": "new",
+    "name": "Terror Strikes 1",
+    "type": "Campaign card",
+    "fate": 6,
+    "act": "II",
+    "section": "if-successful",
+    "alt": "Terror Strikes"
+  },
+  "Campaign/6/piece_0_4.jpg": {
+    "mode": "new",
+    "name": "Terror Strikes 2",
+    "type": "Campaign card",
+    "fate": 6,
+    "act": "II",
+    "section": "if-successful",
+    "alt": "Terror Strikes"
+  },
+  "Campaign/6/piece_0_3.jpg": {
+    "mode": "new",
+    "name": "Spacing Union 2",
+    "type": "Campaign card",
+    "fate": 6,
+    "act": "II",
+    "section": "if-failed",
+    "alt": "Spacing Union"
+  },
+  "Campaign/6/piece_0_2.jpg": {
+    "mode": "new",
+    "name": "Arms Union 2",
+    "type": "Campaign card",
+    "fate": 6,
+    "act": "II",
+    "section": "if-failed",
+    "alt": "Arms Union"
+  },
+  "Campaign/6/piece_0_1.jpg": {
+    "mode": "new",
+    "name": "Act III Setup",
+    "type": "Act card",
+    "fate": 6,
+    "act": "III",
+    "section": "act-cards",
+    "alt": "Setup"
+  },
+  "Campaign/6/back_0_1.jpg": {
+    "mode": "new",
+    "name": "Act III Objective",
+    "type": "Act card",
+    "fate": 6,
+    "act": "III",
+    "section": "act-cards",
+    "alt": "Objective"
+  },
+  "Campaign/6/piece_0_0.jpg": {
+    "mode": "new",
+    "name": "Sower of Division",
+    "type": "Campaign card",
+    "fate": 6,
+    "act": "III",
+    "section": "setup-details",
+    "alt": "Sower of Division"
+  },
+  "Campaign/7/Fate7.jpg": {
+    "mode": "overview",
+    "name": "Admiral",
+    "type": "Fate",
+    "fate": 7,
+    "act": "Overview",
+    "section": "overview",
+    "alt": "Admiral"
+  },
+  "Campaign/7/piece_2_6.jpg": {
+    "mode": "new",
+    "name": "Act I Setup",
+    "type": "Act card",
+    "fate": 7,
+    "act": "I",
+    "section": "act-cards",
+    "alt": "Setup"
+  },
+  "Campaign/7/back_2_6.jpg": {
+    "mode": "new",
+    "name": "Act I Objective",
+    "type": "Act card",
+    "fate": 7,
+    "act": "I",
+    "section": "act-cards",
+    "alt": "Objective"
+  },
+  "Campaign/7/piece_2_3.jpg": {
+    "mode": "new",
+    "name": "Act I Resolution",
+    "type": "Act card",
+    "fate": 7,
+    "act": "I",
+    "section": "act-cards",
+    "alt": "Resolution"
+  },
+  "Campaign/7/piece_2_5.jpg": {
+    "mode": "new",
+    "name": "Imperial Officers",
+    "type": "Campaign card",
+    "fate": 7,
+    "act": "I",
+    "section": "setup-details",
+    "alt": "Imperial Officers"
+  },
+  "Campaign/7/piece_2_4.jpg": {
+    "mode": "new",
+    "name": "Use Imperial Foundries",
+    "type": "Campaign card",
+    "fate": 7,
+    "act": "I",
+    "section": "setup-details",
+    "alt": "Use Imperial Foundries"
+  },
+  "Campaign/7/piece_2_2.jpg": {
+    "mode": "new",
+    "name": "Use Honor Guard",
+    "type": "Campaign card",
+    "fate": 7,
+    "act": "I",
+    "section": "if-successful",
+    "alt": "Use Honor Guard"
+  },
+  "Campaign/7/piece_2_1.jpg": {
+    "mode": "new",
+    "name": "Rogue Admirals 1",
+    "type": "Campaign card",
+    "fate": 7,
+    "act": "I",
+    "section": "if-successful",
+    "alt": "Rogue Admirals"
+  },
+  "Campaign/7/piece_2_0.jpg": {
+    "mode": "new",
+    "name": "Rogue Admirals 2",
+    "type": "Campaign card",
+    "fate": 7,
+    "act": "I",
+    "section": "if-successful",
+    "alt": "Rogue Admirals"
+  },
+  "Campaign/7/piece_1_6.jpg": {
+    "mode": "new",
+    "name": "Court Enforcers 1",
+    "type": "Campaign card",
+    "fate": 7,
+    "act": "I",
+    "section": "if-successful",
+    "alt": "Court Enforcers"
+  },
+  "Campaign/7/piece_1_5.jpg": {
+    "mode": "new",
+    "name": "Court Enforcers 2",
+    "type": "Campaign card",
+    "fate": 7,
+    "act": "I",
+    "section": "if-successful",
+    "alt": "Court Enforcers"
+  },
+  "Campaign/7/piece_1_4.jpg": {
+    "mode": "new",
+    "name": "Imperial Defectors 1",
+    "type": "Campaign card",
+    "fate": 7,
+    "act": "I",
+    "section": "if-failed",
+    "alt": "Imperial Defectors"
+  },
+  "Campaign/7/piece_1_3.jpg": {
+    "mode": "new",
+    "name": "Imperial Defectors 2",
+    "type": "Campaign card",
+    "fate": 7,
+    "act": "I",
+    "section": "if-failed",
+    "alt": "Imperial Defectors"
+  },
+  "Campaign/7/piece_1_2.jpg": {
+    "mode": "new",
+    "name": "Act II Setup",
+    "type": "Act card",
+    "fate": 7,
+    "act": "II",
+    "section": "act-cards",
+    "alt": "Setup"
+  },
+  "Campaign/7/back_1_2.jpg": {
+    "mode": "new",
+    "name": "Act II Objective",
+    "type": "Act card",
+    "fate": 7,
+    "act": "II",
+    "section": "act-cards",
+    "alt": "Objective"
+  },
+  "Campaign/7/piece_1_0.jpg": {
+    "mode": "new",
+    "name": "Act II Resolution",
+    "type": "Act card",
+    "fate": 7,
+    "act": "II",
+    "section": "act-cards",
+    "alt": "Resolution"
+  },
+  "Campaign/7/piece_1_1.jpg": {
+    "mode": "new",
+    "name": "Command Chaos",
+    "type": "Campaign card",
+    "fate": 7,
+    "act": "II",
+    "section": "setup-details",
+    "alt": "Command Chaos"
+  },
+  "Campaign/7/piece_0_4.jpg": {
+    "mode": "new",
+    "name": "Mass Uprising 1",
+    "type": "Campaign card",
+    "fate": 7,
+    "act": "II",
+    "section": "if-successful",
+    "alt": "Mass Uprising"
+  },
+  "Campaign/7/piece_0_3.jpg": {
+    "mode": "new",
+    "name": "Mass Uprising 2",
+    "type": "Campaign card",
+    "fate": 7,
+    "act": "II",
+    "section": "if-successful",
+    "alt": "Mass Uprising"
+  },
+  "Campaign/7/piece_0_6.jpg": {
+    "mode": "new",
+    "name": "Imperial Defectors 3",
+    "type": "Campaign card",
+    "fate": 7,
+    "act": "II",
+    "section": "if-failed",
+    "alt": "Imperial Defectors"
+  },
+  "Campaign/7/piece_0_5.jpg": {
+    "mode": "new",
+    "name": "Imperial Defectors 4",
+    "type": "Campaign card",
+    "fate": 7,
+    "act": "II",
+    "section": "if-failed",
+    "alt": "Imperial Defectors"
+  },
+  "Campaign/7/piece_0_2.jpg": {
+    "mode": "new",
+    "name": "Act III Setup",
+    "type": "Act card",
+    "fate": 7,
+    "act": "III",
+    "section": "act-cards",
+    "alt": "Setup"
+  },
+  "Campaign/7/back_0_2.jpg": {
+    "mode": "new",
+    "name": "Act III Objective",
+    "type": "Act card",
+    "fate": 7,
+    "act": "III",
+    "section": "act-cards",
+    "alt": "Objective"
+  },
+  "Campaign/7/piece_0_1.jpg": {
+    "mode": "new",
+    "name": "Marital Law 1",
+    "type": "Campaign card",
+    "fate": 7,
+    "act": "III",
+    "section": "setup-details",
+    "alt": "Marital Law"
+  },
+  "Campaign/7/piece_0_0.jpg": {
+    "mode": "new",
+    "name": "Marital Law 2",
+    "type": "Campaign card",
+    "fate": 7,
+    "act": "III",
+    "section": "setup-details",
+    "alt": "Marital Law"
+  },
+  "Campaign/8/Fate8.jpg": {
+    "mode": "overview",
+    "name": "Believer",
+    "type": "Fate",
+    "fate": 8,
+    "act": "Overview",
+    "section": "overview",
+    "alt": "Believer"
+  },
+  "Campaign/8/piece_4_2.jpg": {
+    "mode": "new",
+    "name": "Act I Setup",
+    "type": "Act card",
+    "fate": 8,
+    "act": "I",
+    "section": "act-cards",
+    "alt": "Setup"
+  },
+  "Campaign/8/back_4_2.jpg": {
+    "mode": "new",
+    "name": "Act I Objective",
+    "type": "Act card",
+    "fate": 8,
+    "act": "I",
+    "section": "act-cards",
+    "alt": "Objective"
+  },
+  "Campaign/8/piece_2_2.jpg": {
+    "mode": "new",
+    "name": "Act I Resolution",
+    "type": "Act card",
+    "fate": 8,
+    "act": "I",
+    "section": "act-cards",
+    "alt": "Resolution"
+  },
+  "Campaign/8/piece_4_1.jpg": {
+    "mode": "new",
+    "name": "Faithful Disciples",
+    "type": "Campaign card",
+    "fate": 8,
+    "act": "I",
+    "section": "setup-details",
+    "alt": "Faithful Disciples"
+  },
+  "Campaign/8/piece_4_0.jpg": {
+    "mode": "new",
+    "name": "Spreading the Faith",
+    "type": "Campaign card",
+    "fate": 8,
+    "act": "I",
+    "section": "setup-details",
+    "alt": "Spreading the Faith"
+  },
+  "Campaign/8/piece_3_6.jpg": {
+    "mode": "new",
+    "name": "Faithful action card 1",
+    "type": "Campaign card",
+    "fate": 8,
+    "act": "I",
+    "section": "setup-details",
+    "alt": "Faithful action card"
+  },
+  "Campaign/8/piece_3_5.jpg": {
+    "mode": "new",
+    "name": "Faithful action card 2",
+    "type": "Campaign card",
+    "fate": 8,
+    "act": "I",
+    "section": "setup-details",
+    "alt": "Faithful action card"
+  },
+  "Campaign/8/piece_3_4.jpg": {
+    "mode": "new",
+    "name": "Faithful action card 3",
+    "type": "Campaign card",
+    "fate": 8,
+    "act": "I",
+    "section": "setup-details",
+    "alt": "Faithful action card"
+  },
+  "Campaign/8/piece_3_3.jpg": {
+    "mode": "new",
+    "name": "Faithful action card 4",
+    "type": "Campaign card",
+    "fate": 8,
+    "act": "I",
+    "section": "setup-details",
+    "alt": "Faithful action card"
+  },
+  "Campaign/8/piece_3_2.jpg": {
+    "mode": "new",
+    "name": "Faithful action card 5",
+    "type": "Campaign card",
+    "fate": 8,
+    "act": "I",
+    "section": "setup-details",
+    "alt": "Faithful action card"
+  },
+  "Campaign/8/piece_3_1.jpg": {
+    "mode": "new",
+    "name": "Faithful action card 6",
+    "type": "Campaign card",
+    "fate": 8,
+    "act": "I",
+    "section": "setup-details",
+    "alt": "Faithful action card"
+  },
+  "Campaign/8/piece_3_0.jpg": {
+    "mode": "new",
+    "name": "Faithful action card 7",
+    "type": "Campaign card",
+    "fate": 8,
+    "act": "I",
+    "section": "setup-details",
+    "alt": "Faithful action card"
+  },
+  "Campaign/8/piece_2_6.jpg": {
+    "mode": "new",
+    "name": "Faithful action card 8",
+    "type": "Campaign card",
+    "fate": 8,
+    "act": "I",
+    "section": "setup-details",
+    "alt": "Faithful action card"
+  },
+  "Campaign/8/piece_2_5.jpg": {
+    "mode": "new",
+    "name": "Faithful action card 9",
+    "type": "Campaign card",
+    "fate": 8,
+    "act": "I",
+    "section": "setup-details",
+    "alt": "Faithful action card"
+  },
+  "Campaign/8/piece_2_4.jpg": {
+    "mode": "new",
+    "name": "Faithful Cards",
+    "type": "Campaign card",
+    "fate": 8,
+    "act": "I",
+    "section": "setup-details",
+    "alt": "Faithful Cards"
+  },
+  "Campaign/8/piece_2_3.jpg": {
+    "mode": "new",
+    "name": "Pluralistic Faith 1",
+    "type": "Campaign card",
+    "fate": 8,
+    "act": "I",
+    "section": "setup-details",
+    "alt": "Pluralistic Faith"
+  },
+  "Campaign/8/piece_2_1.jpg": {
+    "mode": "new",
+    "name": "The Young Light",
+    "type": "Campaign card",
+    "fate": 8,
+    "act": "I",
+    "section": "if-successful",
+    "alt": "The Young Light"
+  },
+  "Campaign/8/piece_2_0.jpg": {
+    "mode": "new",
+    "name": "Plot to Kidnap",
+    "type": "Campaign card",
+    "fate": 8,
+    "act": "I",
+    "section": "if-successful",
+    "alt": "Plot to Kidnap"
+  },
+  "Campaign/8/piece_1_6.jpg": {
+    "mode": "new",
+    "name": "The Prodigal One",
+    "type": "Campaign card",
+    "fate": 8,
+    "act": "I",
+    "section": "if-failed",
+    "alt": "The Prodigal One"
+  },
+  "Campaign/8/piece_1_5.jpg": {
+    "mode": "new",
+    "name": "Secret Order 1",
+    "type": "Campaign card",
+    "fate": 8,
+    "act": "I",
+    "section": "if-failed",
+    "alt": "Secret Order"
+  },
+  "Campaign/8/piece_1_4.jpg": {
+    "mode": "new",
+    "name": "Act II Setup",
+    "type": "Act card",
+    "fate": 8,
+    "act": "II",
+    "section": "act-cards",
+    "alt": "Setup"
+  },
+  "Campaign/8/back_1_4.jpg": {
+    "mode": "new",
+    "name": "Act II Objective",
+    "type": "Act card",
+    "fate": 8,
+    "act": "II",
+    "section": "act-cards",
+    "alt": "Objective"
+  },
+  "Campaign/8/piece_1_0.jpg": {
+    "mode": "new",
+    "name": "Act II Resolution",
+    "type": "Act card",
+    "fate": 8,
+    "act": "II",
+    "section": "act-cards",
+    "alt": "Resolution"
+  },
+  "Campaign/8/piece_1_3.jpg": {
+    "mode": "new",
+    "name": "Set Doctrine",
+    "type": "Campaign card",
+    "fate": 8,
+    "act": "II",
+    "section": "setup-details",
+    "alt": "Set Doctrine"
+  },
+  "Campaign/8/piece_1_2.jpg": {
+    "mode": "new",
+    "name": "Doctrine of Zeal",
+    "type": "Campaign card",
+    "fate": 8,
+    "act": "II",
+    "section": "setup-details",
+    "alt": "Doctrine of Zeal"
+  },
+  "Campaign/8/back_1_2.jpg": {
+    "mode": "new",
+    "name": "Doctrine of Wisdom",
+    "type": "Campaign card",
+    "fate": 8,
+    "act": "II",
+    "section": "setup-details",
+    "alt": "Doctrine of Wisdom"
+  },
+  "Campaign/8/piece_1_1.jpg": {
+    "mode": "new",
+    "name": "Pluralistic Faith 2",
+    "type": "Campaign card",
+    "fate": 8,
+    "act": "II",
+    "section": "setup-details",
+    "alt": "Pluralistic Faith"
+  },
+  "Campaign/8/piece_0_6.jpg": {
+    "mode": "new",
+    "name": "The Prophet",
+    "type": "Campaign card",
+    "fate": 8,
+    "act": "II",
+    "section": "if-successful",
+    "alt": "The Prophet"
+  },
+  "Campaign/8/piece_0_5.jpg": {
+    "mode": "new",
+    "name": "Secret Order 2",
+    "type": "Campaign card",
+    "fate": 8,
+    "act": "II",
+    "section": "if-failed",
+    "alt": "Secret Order"
+  },
+  "Campaign/8/piece_0_4.jpg": {
+    "mode": "new",
+    "name": "Set Lay Doctrine",
+    "type": "Campaign card",
+    "fate": 8,
+    "act": "II",
+    "section": "if-failed",
+    "alt": "Set Lay Doctrine"
+  },
+  "Campaign/8/piece_0_3.jpg": {
+    "mode": "new",
+    "name": "Repressed Faith",
+    "type": "Campaign card",
+    "fate": 8,
+    "act": "II",
+    "section": "if-failed",
+    "alt": "Repressed Faith"
+  },
+  "Campaign/8/piece_0_2.jpg": {
+    "mode": "new",
+    "name": "Act III Setup",
+    "type": "Act card",
+    "fate": 8,
+    "act": "III",
+    "section": "act-cards",
+    "alt": "Setup"
+  },
+  "Campaign/8/back_0_2.jpg": {
+    "mode": "new",
+    "name": "Act III Objective",
+    "type": "Act card",
+    "fate": 8,
+    "act": "III",
+    "section": "act-cards",
+    "alt": "Objective"
+  },
+  "Campaign/8/piece_0_1.jpg": {
+    "mode": "new",
+    "name": "Dominant Faith",
+    "type": "Campaign card",
+    "fate": 8,
+    "act": "III",
+    "section": "setup-details",
+    "alt": "Dominant Faith"
+  },
+  "Campaign/8/piece_0_0.jpg": {
+    "mode": "new",
+    "name": "Breaking the Faith",
+    "type": "Campaign card",
+    "fate": 8,
+    "act": "III",
+    "section": "setup-details",
+    "alt": "Breaking the Faith"
+  },
+  "Campaign/9/Fate9.jpg": {
+    "mode": "overview",
+    "name": "Pathfinder",
+    "type": "Fate",
+    "fate": 9,
+    "act": "Overview",
+    "section": "overview",
+    "alt": "Pathfinder"
+  },
+  "Campaign/9/piece_1_3.jpg": {
+    "mode": "new",
+    "name": "Act II Setup",
+    "type": "Act card",
+    "fate": 9,
+    "act": "II",
+    "section": "act-cards",
+    "alt": "Setup"
+  },
+  "Campaign/9/back_1_3.jpg": {
+    "mode": "new",
+    "name": "Act II Objective",
+    "type": "Act card",
+    "fate": 9,
+    "act": "II",
+    "section": "act-cards",
+    "alt": "Objective"
+  },
+  "Campaign/9/piece_1_0.jpg": {
+    "mode": "new",
+    "name": "Act II Resolution",
+    "type": "Act card",
+    "fate": 9,
+    "act": "II",
+    "section": "act-cards",
+    "alt": "Resolution"
+  },
+  "Campaign/9/piece_1_2.jpg": {
+    "mode": "new",
+    "name": "Uncovering Clues",
+    "type": "Campaign card",
+    "fate": 9,
+    "act": "II",
+    "section": "setup-details",
+    "alt": "Uncovering Clues"
+  },
+  "Campaign/9/piece_1_1.jpg": {
+    "mode": "new",
+    "name": "Clues to the Portal",
+    "type": "Campaign card",
+    "fate": 9,
+    "act": "II",
+    "section": "setup-details",
+    "alt": "Clues to the Portal"
+  },
+  "Campaign/9/piece_0_6.jpg": {
+    "mode": "new",
+    "name": "Call to Pilgrimage",
+    "type": "Campaign card",
+    "fate": 9,
+    "act": "II",
+    "section": "if-successful",
+    "alt": "Call to Pilgrimage"
+  },
+  "Campaign/9/piece_0_5.jpg": {
+    "mode": "new",
+    "name": "Portal Seekers",
+    "type": "Campaign card",
+    "fate": 9,
+    "act": "II",
+    "section": "if-failed",
+    "alt": "Portal Seekers"
+  },
+  "Campaign/9/piece_0_4.jpg": {
+    "mode": "new",
+    "name": "Act III Setup",
+    "type": "Act card",
+    "fate": 9,
+    "act": "III",
+    "section": "act-cards",
+    "alt": "Setup"
+  },
+  "Campaign/9/back_0_4.jpg": {
+    "mode": "new",
+    "name": "Act III Objective",
+    "type": "Act card",
+    "fate": 9,
+    "act": "III",
+    "section": "act-cards",
+    "alt": "Objective"
+  },
+  "Campaign/9/piece_0_3.jpg": {
+    "mode": "new",
+    "name": "Pilgrims",
+    "type": "Campaign card",
+    "fate": 9,
+    "act": "III",
+    "section": "setup-details",
+    "alt": "Pilgrims"
+  },
+  "Campaign/9/piece_0_2.jpg": {
+    "mode": "new",
+    "name": "Seek the Portal 1",
+    "type": "Campaign card",
+    "fate": 9,
+    "act": "III",
+    "section": "setup-details",
+    "alt": "Seek the Portal"
+  },
+  "Campaign/9/piece_0_1.jpg": {
+    "mode": "new",
+    "name": "Seek the Portal 2",
+    "type": "Campaign card",
+    "fate": 9,
+    "act": "III",
+    "section": "setup-details",
+    "alt": "Seek the Portal"
+  },
+  "Campaign/9/piece_0_0.jpg": {
+    "mode": "new",
+    "name": "Seek the Portal 3",
+    "type": "Campaign card",
+    "fate": 9,
+    "act": "III",
+    "section": "setup-details",
+    "alt": "Seek the Portal"
+  },
+  "Campaign/10/Fate10.jpg": {
+    "mode": "overview",
+    "name": "Admiral",
+    "type": "Fate",
+    "fate": 10,
+    "act": "Overview",
+    "section": "overview",
+    "alt": "Admiral"
+  },
+  "Campaign/10/piece_1_4.jpg": {
+    "mode": "new",
+    "name": "Act II Setup",
+    "type": "Act card",
+    "fate": 10,
+    "act": "II",
+    "section": "act-cards",
+    "alt": "Setup"
+  },
+  "Campaign/10/back_1_4.jpg": {
+    "mode": "new",
+    "name": "Act II Objective",
+    "type": "Act card",
+    "fate": 10,
+    "act": "II",
+    "section": "act-cards",
+    "alt": "Objective"
+  },
+  "Campaign/10/piece_1_0.jpg": {
+    "mode": "new",
+    "name": "Act II Resolution",
+    "type": "Act card",
+    "fate": 10,
+    "act": "II",
+    "section": "act-cards",
+    "alt": "Resolution"
+  },
+  "Campaign/10/piece_1_3.jpg": {
+    "mode": "new",
+    "name": "Planting Banners",
+    "type": "Campaign card",
+    "fate": 10,
+    "act": "II",
+    "section": "setup-details",
+    "alt": "Planting Banners"
+  },
+  "Campaign/10/piece_1_2.jpg": {
+    "mode": "new",
+    "name": "Banners of Hegemony",
+    "type": "Campaign card",
+    "fate": 10,
+    "act": "II",
+    "section": "setup-details",
+    "alt": "Banners of Hegemony"
+  },
+  "Campaign/10/piece_1_1.jpg": {
+    "mode": "new",
+    "name": "Song of the Banner",
+    "type": "Campaign card",
+    "fate": 10,
+    "act": "II",
+    "section": "setup-details",
+    "alt": "Song of the Banner"
+  },
+  "Campaign/10/piece_0_6.jpg": {
+    "mode": "new",
+    "name": "Mind Managers",
+    "type": "Campaign card",
+    "fate": 10,
+    "act": "II",
+    "section": "if-successful",
+    "alt": "Mind Managers"
+  },
+  "Campaign/10/piece_0_5.jpg": {
+    "mode": "new",
+    "name": "Prison Wardens 1",
+    "type": "Campaign card",
+    "fate": 10,
+    "act": "II",
+    "section": "if-successful",
+    "alt": "Prison Wardens"
+  },
+  "Campaign/10/piece_0_4.jpg": {
+    "mode": "new",
+    "name": "Prison Wardens 2",
+    "type": "Campaign card",
+    "fate": 10,
+    "act": "II",
+    "section": "if-successful",
+    "alt": "Prison Wardens"
+  },
+  "Campaign/10/piece_0_3.jpg": {
+    "mode": "new",
+    "name": "Against Hegemony 1",
+    "type": "Campaign card",
+    "fate": 10,
+    "act": "II",
+    "section": "if-failed",
+    "alt": "Against Hegemony"
+  },
+  "Campaign/10/piece_0_2.jpg": {
+    "mode": "new",
+    "name": "Against Hegemony 2",
+    "type": "Campaign card",
+    "fate": 10,
+    "act": "II",
+    "section": "if-failed",
+    "alt": "Against Hegemony"
+  },
+  "Campaign/10/piece_0_1.jpg": {
+    "mode": "new",
+    "name": "Act III Setup",
+    "type": "Act card",
+    "fate": 10,
+    "act": "III",
+    "section": "act-cards",
+    "alt": "Setup"
+  },
+  "Campaign/10/back_0_1.jpg": {
+    "mode": "new",
+    "name": "Act III Objective",
+    "type": "Act card",
+    "fate": 10,
+    "act": "III",
+    "section": "act-cards",
+    "alt": "Objective"
+  },
+  "Campaign/10/piece_0_0.jpg": {
+    "mode": "new",
+    "name": "Happy Hosts",
+    "type": "Campaign card",
+    "fate": 10,
+    "act": "III",
+    "section": "setup-details",
+    "alt": "Happy Hosts"
+  },
+  "Campaign/11/Fate11.jpg": {
+    "mode": "overview",
+    "name": "Planet Breaker",
+    "type": "Fate",
+    "fate": 11,
+    "act": "Overview",
+    "section": "overview",
+    "alt": "Planet Breaker"
+  },
+  "Campaign/11/piece_1_4.jpg": {
+    "mode": "new",
+    "name": "Act II Setup",
+    "type": "Act card",
+    "fate": 11,
+    "act": "II",
+    "section": "act-cards",
+    "alt": "Setup"
+  },
+  "Campaign/11/back_1_4.jpg": {
+    "mode": "new",
+    "name": "Act II Objective",
+    "type": "Act card",
+    "fate": 11,
+    "act": "II",
+    "section": "act-cards",
+    "alt": "Objective"
+  },
+  "Campaign/11/piece_0_2.jpg": {
+    "mode": "new",
+    "name": "Act II Resolution",
+    "type": "Act card",
+    "fate": 11,
+    "act": "II",
+    "section": "act-cards",
+    "alt": "Resolution"
+  },
+  "Campaign/11/piece_1_3.jpg": {
+    "mode": "new",
+    "name": "Sycophants",
+    "type": "Campaign card",
+    "fate": 11,
+    "act": "II",
+    "section": "setup-details",
+    "alt": "Sycophants"
+  },
+  "Campaign/11/piece_1_2.jpg": {
+    "mode": "new",
+    "name": "Hammer Fragments",
+    "type": "Campaign card",
+    "fate": 11,
+    "act": "II",
+    "section": "setup-details",
+    "alt": "Hammer Fragments"
+  },
+  "Campaign/11/back_1_2.jpg": {
+    "mode": "new",
+    "name": "Breaking Worlds",
+    "type": "Campaign card",
+    "fate": 11,
+    "act": "II",
+    "section": "setup-details",
+    "alt": "Breaking Worlds"
+  },
+  "Campaign/11/piece_1_1.jpg": {
+    "mode": "new",
+    "name": "Planet Hammer",
+    "type": "Campaign card",
+    "fate": 11,
+    "act": "II",
+    "section": "setup-details",
+    "alt": "Planet Hammer"
+  },
+  "Campaign/11/piece_1_0.jpg": {
+    "mode": "new",
+    "name": "Forgeworld Refugees",
+    "type": "Campaign card",
+    "fate": 11,
+    "act": "II",
+    "section": "setup-details",
+    "alt": "Forgeworld Refugees"
+  },
+  "Campaign/11/piece_0_6.jpg": {
+    "mode": "new",
+    "name": "Blazeworld Refugees",
+    "type": "Campaign card",
+    "fate": 11,
+    "act": "II",
+    "section": "setup-details",
+    "alt": "Blazeworld Refugees"
+  },
+  "Campaign/11/piece_0_5.jpg": {
+    "mode": "new",
+    "name": "Deadworld Refugees",
+    "type": "Campaign card",
+    "fate": 11,
+    "act": "II",
+    "section": "setup-details",
+    "alt": "Deadworld Refugees"
+  },
+  "Campaign/11/piece_0_4.jpg": {
+    "mode": "new",
+    "name": "Lostworld Refugees",
+    "type": "Campaign card",
+    "fate": 11,
+    "act": "II",
+    "section": "setup-details",
+    "alt": "Lostworld Refugees"
+  },
+  "Campaign/11/piece_0_3.jpg": {
+    "mode": "new",
+    "name": "Heartworld Refugees",
+    "type": "Campaign card",
+    "fate": 11,
+    "act": "II",
+    "section": "setup-details",
+    "alt": "Heartworld Refugees"
+  },
+  "Campaign/11/piece_0_1.jpg": {
+    "mode": "new",
+    "name": "Planet-Eater Loose",
+    "type": "Campaign card",
+    "fate": 11,
+    "act": "II",
+    "section": "if-failed",
+    "alt": "Planet-Eater Loose"
+  },
+  "Campaign/11/piece_0_0.jpg": {
+    "mode": "new",
+    "name": "Act III Setup",
+    "type": "Act card",
+    "fate": 11,
+    "act": "III",
+    "section": "act-cards",
+    "alt": "Setup"
+  },
+  "Campaign/11/back_0_0.jpg": {
+    "mode": "new",
+    "name": "Act III Objective",
+    "type": "Act card",
+    "fate": 11,
+    "act": "III",
+    "section": "act-cards",
+    "alt": "Objective"
+  },
+  "Campaign/12/Fate12.jpg": {
+    "mode": "overview",
+    "name": "Pirate",
+    "type": "Fate",
+    "fate": 12,
+    "act": "Overview",
+    "section": "overview",
+    "alt": "Pirate"
+  },
+  "Campaign/12/piece_1_4.jpg": {
+    "mode": "new",
+    "name": "Act II Setup",
+    "type": "Act card",
+    "fate": 12,
+    "act": "II",
+    "section": "act-cards",
+    "alt": "Setup"
+  },
+  "Campaign/12/back_1_4.jpg": {
+    "mode": "new",
+    "name": "Act II Objective",
+    "type": "Act card",
+    "fate": 12,
+    "act": "II",
+    "section": "act-cards",
+    "alt": "Objective"
+  },
+  "Campaign/12/piece_1_1.jpg": {
+    "mode": "new",
+    "name": "Act II Resolution",
+    "type": "Act card",
+    "fate": 12,
+    "act": "II",
+    "section": "act-cards",
+    "alt": "Resolution"
+  },
+  "Campaign/12/piece_1_3.jpg": {
+    "mode": "new",
+    "name": "Pirate Hoard",
+    "type": "Campaign card",
+    "fate": 12,
+    "act": "II",
+    "section": "setup-details",
+    "alt": "Pirate Hoard"
+  },
+  "Campaign/12/piece_1_2.jpg": {
+    "mode": "new",
+    "name": "Pirate Fleet",
+    "type": "Campaign card",
+    "fate": 12,
+    "act": "II",
+    "section": "setup-details",
+    "alt": "Pirate Fleet"
+  },
+  "Campaign/12/piece_1_0.jpg": {
+    "mode": "new",
+    "name": "Pirate Smugglers",
+    "type": "Campaign card",
+    "fate": 12,
+    "act": "II",
+    "section": "if-successful",
+    "alt": "Pirate Smugglers"
+  },
+  "Campaign/12/piece_0_6.jpg": {
+    "mode": "new",
+    "name": "Call to Action",
+    "type": "Campaign card",
+    "fate": 12,
+    "act": "II",
+    "section": "if-failed",
+    "alt": "Call to Action"
+  },
+  "Campaign/12/piece_0_5.jpg": {
+    "mode": "new",
+    "name": "Silver-Tongues",
+    "type": "Campaign card",
+    "fate": 12,
+    "act": "II",
+    "section": "if-failed",
+    "alt": "Silver-Tongues"
+  },
+  "Campaign/12/piece_0_4.jpg": {
+    "mode": "new",
+    "name": "Act III Setup",
+    "type": "Act card",
+    "fate": 12,
+    "act": "III",
+    "section": "act-cards",
+    "alt": "Setup"
+  },
+  "Campaign/12/back_0_4.jpg": {
+    "mode": "new",
+    "name": "Act III Objective",
+    "type": "Act card",
+    "fate": 12,
+    "act": "III",
+    "section": "act-cards",
+    "alt": "Objective"
+  },
+  "Campaign/12/piece_0_3.jpg": {
+    "mode": "new",
+    "name": "Rumors Spread 1",
+    "type": "Campaign card",
+    "fate": 12,
+    "act": "III",
+    "section": "setup-details",
+    "alt": "Rumors Spread"
+  },
+  "Campaign/12/piece_0_2.jpg": {
+    "mode": "new",
+    "name": "Rumors Spread 2",
+    "type": "Campaign card",
+    "fate": 12,
+    "act": "III",
+    "section": "setup-details",
+    "alt": "Rumors Spread"
+  },
+  "Campaign/12/piece_0_1.jpg": {
+    "mode": "new",
+    "name": "Rumors of the Haven",
+    "type": "Campaign card",
+    "fate": 12,
+    "act": "III",
+    "section": "setup-details",
+    "alt": "Rumors of the Haven"
+  },
+  "Campaign/12/piece_0_0.jpg": {
+    "mode": "new",
+    "name": "Sharing Rumors",
+    "type": "Campaign card",
+    "fate": 12,
+    "act": "III",
+    "section": "setup-details",
+    "alt": "Sharing Rumors"
+  },
+  "Campaign/13/Fate13.jpg": {
+    "mode": "overview",
+    "name": "Blight Speaker",
+    "type": "Fate",
+    "fate": 13,
+    "act": "Overview",
+    "section": "overview",
+    "alt": "Blight Speaker"
+  },
+  "Campaign/13/piece_1_5.jpg": {
+    "mode": "new",
+    "name": "Act II Setup",
+    "type": "Act card",
+    "fate": 13,
+    "act": "II",
+    "section": "act-cards",
+    "alt": "Setup"
+  },
+  "Campaign/13/back_1_5.jpg": {
+    "mode": "new",
+    "name": "Act II Objective",
+    "type": "Act card",
+    "fate": 13,
+    "act": "II",
+    "section": "act-cards",
+    "alt": "Objective"
+  },
+  "Campaign/13/piece_1_3.jpg": {
+    "mode": "new",
+    "name": "Act II Resolution",
+    "type": "Act card",
+    "fate": 13,
+    "act": "II",
+    "section": "act-cards",
+    "alt": "Resolution"
+  },
+  "Campaign/13/piece_1_4.jpg": {
+    "mode": "new",
+    "name": "Spore Ships",
+    "type": "Campaign card",
+    "fate": 13,
+    "act": "II",
+    "section": "setup-details",
+    "alt": "Spore Ships"
+  },
+  "Campaign/13/piece_1_2.jpg": {
+    "mode": "new",
+    "name": "Blight Fury",
+    "type": "Campaign card",
+    "fate": 13,
+    "act": "II",
+    "section": "if-successful",
+    "alt": "Blight Fury"
+  },
+  "Campaign/13/piece_1_1.jpg": {
+    "mode": "new",
+    "name": "Blight Hunters",
+    "type": "Campaign card",
+    "fate": 13,
+    "act": "II",
+    "section": "if-successful",
+    "alt": "Blight Hunters"
+  },
+  "Campaign/13/piece_1_0.jpg": {
+    "mode": "new",
+    "name": "Blight Reapers",
+    "type": "Campaign card",
+    "fate": 13,
+    "act": "II",
+    "section": "if-successful",
+    "alt": "Blight Reapers"
+  },
+  "Campaign/13/piece_0_6.jpg": {
+    "mode": "new",
+    "name": "Blight Purge 1",
+    "type": "Campaign card",
+    "fate": 13,
+    "act": "II",
+    "section": "if-successful",
+    "alt": "Blight Purge"
+  },
+  "Campaign/13/piece_0_5.jpg": {
+    "mode": "new",
+    "name": "Blight Purge 2",
+    "type": "Campaign card",
+    "fate": 13,
+    "act": "II",
+    "section": "if-successful",
+    "alt": "Blight Purge"
+  },
+  "Campaign/13/piece_0_4.jpg": {
+    "mode": "new",
+    "name": "Blight Purge 3",
+    "type": "Campaign card",
+    "fate": 13,
+    "act": "II",
+    "section": "if-successful",
+    "alt": "Blight Purge"
+  },
+  "Campaign/13/piece_0_3.jpg": {
+    "mode": "new",
+    "name": "Blight Panic",
+    "type": "Campaign card",
+    "fate": 13,
+    "act": "II",
+    "section": "if-failed",
+    "alt": "Blight Panic"
+  },
+  "Campaign/13/piece_0_2.jpg": {
+    "mode": "new",
+    "name": "Blight Looms",
+    "type": "Campaign card",
+    "fate": 13,
+    "act": "II",
+    "section": "if-failed",
+    "alt": "Blight Looms"
+  },
+  "Campaign/13/piece_0_1.jpg": {
+    "mode": "new",
+    "name": "Act III Setup",
+    "type": "Act card",
+    "fate": 13,
+    "act": "III",
+    "section": "act-cards",
+    "alt": "Setup"
+  },
+  "Campaign/13/back_0_1.jpg": {
+    "mode": "new",
+    "name": "Act III Objective",
+    "type": "Act card",
+    "fate": 13,
+    "act": "III",
+    "section": "act-cards",
+    "alt": "Objective"
+  },
+  "Campaign/13/piece_0_0.jpg": {
+    "mode": "new",
+    "name": "Blight Hunger",
+    "type": "Campaign card",
+    "fate": 13,
+    "act": "III",
+    "section": "setup-details",
+    "alt": "Blight Hunger"
+  },
+  "Campaign/14/Fate14.jpg": {
+    "mode": "overview",
+    "name": "Pacifist",
+    "type": "Fate",
+    "fate": 14,
+    "act": "Overview",
+    "section": "overview",
+    "alt": "Pacifist"
+  },
+  "Campaign/14/piece_1_4.jpg": {
+    "mode": "new",
+    "name": "Act II Setup",
+    "type": "Act card",
+    "fate": 14,
+    "act": "II",
+    "section": "act-cards",
+    "alt": "Setup"
+  },
+  "Campaign/14/back_1_4.jpg": {
+    "mode": "new",
+    "name": "Act II Objective",
+    "type": "Act card",
+    "fate": 14,
+    "act": "II",
+    "section": "act-cards",
+    "alt": "Objective"
+  },
+  "Campaign/14/piece_1_1.jpg": {
+    "mode": "new",
+    "name": "Act II Resolution",
+    "type": "Act card",
+    "fate": 14,
+    "act": "II",
+    "section": "act-cards",
+    "alt": "Resolution"
+  },
+  "Campaign/14/piece_1_3.jpg": {
+    "mode": "new",
+    "name": "Witnesses",
+    "type": "Campaign card",
+    "fate": 14,
+    "act": "II",
+    "section": "setup-details",
+    "alt": "Witnesses"
+  },
+  "Campaign/14/piece_1_2.jpg": {
+    "mode": "new",
+    "name": "Well of Empathy",
+    "type": "Campaign card",
+    "fate": 14,
+    "act": "II",
+    "section": "setup-details",
+    "alt": "Well of Empathy"
+  },
+  "Campaign/14/piece_1_0.jpg": {
+    "mode": "new",
+    "name": "Psionic Liaisons",
+    "type": "Campaign card",
+    "fate": 14,
+    "act": "II",
+    "section": "if-failed",
+    "alt": "Psionic Liaisons"
+  },
+  "Campaign/14/piece_0_6.jpg": {
+    "mode": "new",
+    "name": "Itenerant Empath 1",
+    "type": "Campaign card",
+    "fate": 14,
+    "act": "II",
+    "section": "if-failed",
+    "alt": "Itenerant Empath"
+  },
+  "Campaign/14/piece_0_5.jpg": {
+    "mode": "new",
+    "name": "Itenerant Empath 2",
+    "type": "Campaign card",
+    "fate": 14,
+    "act": "II",
+    "section": "if-failed",
+    "alt": "Itenerant Empath"
+  },
+  "Campaign/14/piece_0_4.jpg": {
+    "mode": "new",
+    "name": "Act III Setup",
+    "type": "Act card",
+    "fate": 14,
+    "act": "III",
+    "section": "act-cards",
+    "alt": "Setup"
+  },
+  "Campaign/14/back_0_4.jpg": {
+    "mode": "new",
+    "name": "Act III Objective",
+    "type": "Act card",
+    "fate": 14,
+    "act": "III",
+    "section": "act-cards",
+    "alt": "Objective"
+  },
+  "Campaign/14/piece_0_3.jpg": {
+    "mode": "new",
+    "name": "Empathy for All 1",
+    "type": "Campaign card",
+    "fate": 14,
+    "act": "III",
+    "section": "setup-details",
+    "alt": "Empathy for All"
+  },
+  "Campaign/14/piece_0_2.jpg": {
+    "mode": "new",
+    "name": "Empathy for All 2",
+    "type": "Campaign card",
+    "fate": 14,
+    "act": "III",
+    "section": "setup-details",
+    "alt": "Empathy for All"
+  },
+  "Campaign/14/piece_0_1.jpg": {
+    "mode": "new",
+    "name": "Reconcile with the Outraged",
+    "type": "Campaign card",
+    "fate": 14,
+    "act": "III",
+    "section": "setup-details",
+    "alt": "Reconcile with the Outraged"
+  },
+  "Campaign/14/piece_0_0.jpg": {
+    "mode": "new",
+    "name": "Rebuke of the Empaths",
+    "type": "Campaign card",
+    "fate": 14,
+    "act": "III",
+    "section": "setup-details",
+    "alt": "Rebuke of the Empaths"
+  },
+  "Campaign/15/Fate15.jpg": {
+    "mode": "overview",
+    "name": "Peacekeeper",
+    "type": "Fate",
+    "fate": 15,
+    "act": "Overview",
+    "section": "overview",
+    "alt": "Peacekeeper"
+  },
+  "Campaign/15/piece_1_3.jpg": {
+    "mode": "new",
+    "name": "Act II Setup",
+    "type": "Act card",
+    "fate": 15,
+    "act": "II",
+    "section": "act-cards",
+    "alt": "Setup"
+  },
+  "Campaign/15/back_1_3.jpg": {
+    "mode": "new",
+    "name": "Act II Objective",
+    "type": "Act card",
+    "fate": 15,
+    "act": "II",
+    "section": "act-cards",
+    "alt": "Objective"
+  },
+  "Campaign/15/piece_1_0.jpg": {
+    "mode": "new",
+    "name": "Act II Resolution",
+    "type": "Act card",
+    "fate": 15,
+    "act": "II",
+    "section": "act-cards",
+    "alt": "Resolution"
+  },
+  "Campaign/15/piece_1_2.jpg": {
+    "mode": "new",
+    "name": "Oath of Peace",
+    "type": "Campaign card",
+    "fate": 15,
+    "act": "II",
+    "section": "setup-details",
+    "alt": "Oath of Peace"
+  },
+  "Campaign/15/piece_1_1.jpg": {
+    "mode": "new",
+    "name": "Arsenal Keepers",
+    "type": "Campaign card",
+    "fate": 15,
+    "act": "II",
+    "section": "setup-details",
+    "alt": "Arsenal Keepers"
+  },
+  "Campaign/15/piece_0_6.jpg": {
+    "mode": "new",
+    "name": "Arms Interest 1",
+    "type": "Campaign card",
+    "fate": 15,
+    "act": "II",
+    "section": "if-successful",
+    "alt": "Arms Interest"
+  },
+  "Campaign/15/piece_0_5.jpg": {
+    "mode": "new",
+    "name": "Arms Interest 2",
+    "type": "Campaign card",
+    "fate": 15,
+    "act": "II",
+    "section": "if-successful",
+    "alt": "Arms Interest"
+  },
+  "Campaign/15/piece_0_4.jpg": {
+    "mode": "new",
+    "name": "Act III Setup",
+    "type": "Act card",
+    "fate": 15,
+    "act": "III",
+    "section": "act-cards",
+    "alt": "Setup"
+  },
+  "Campaign/15/back_0_4.jpg": {
+    "mode": "new",
+    "name": "Act III Objective",
+    "type": "Act card",
+    "fate": 15,
+    "act": "III",
+    "section": "act-cards",
+    "alt": "Objective"
+  },
+  "Campaign/15/piece_0_3.jpg": {
+    "mode": "new",
+    "name": "Ceasefires",
+    "type": "Campaign card",
+    "fate": 15,
+    "act": "III",
+    "section": "setup-details",
+    "alt": "Ceasefires"
+  },
+  "Campaign/15/piece_0_2.jpg": {
+    "mode": "new",
+    "name": "Empire Balks at Peace",
+    "type": "Campaign card",
+    "fate": 15,
+    "act": "III",
+    "section": "setup-details",
+    "alt": "Empire Balks at Peace"
+  },
+  "Campaign/15/piece_0_1.jpg": {
+    "mode": "new",
+    "name": "Peace Dividends",
+    "type": "Campaign card",
+    "fate": 15,
+    "act": "III",
+    "section": "setup-details",
+    "alt": "Peace Dividends"
+  },
+  "Campaign/15/piece_0_0.jpg": {
+    "mode": "new",
+    "name": "Peace Accords",
+    "type": "Campaign card",
+    "fate": 15,
+    "act": "III",
+    "section": "setup-details",
+    "alt": "Peace Accords"
+  },
+  "Campaign/16/Fate16.jpg": {
+    "mode": "overview",
+    "name": "Warden",
+    "type": "Fate",
+    "fate": 16,
+    "act": "Overview",
+    "section": "overview",
+    "alt": "Warden"
+  },
+  "Campaign/16/piece_2_4.jpg": {
+    "mode": "new",
+    "name": "Act II Setup",
+    "type": "Act card",
+    "fate": 16,
+    "act": "II",
+    "section": "act-cards",
+    "alt": "Setup"
+  },
+  "Campaign/16/back_2_4.jpg": {
+    "mode": "new",
+    "name": "Act II Objective",
+    "type": "Act card",
+    "fate": 16,
+    "act": "II",
+    "section": "act-cards",
+    "alt": "Objective"
+  },
+  "Campaign/16/piece_1_1.jpg": {
+    "mode": "new",
+    "name": "Act II Resolution",
+    "type": "Act card",
+    "fate": 16,
+    "act": "II",
+    "section": "act-cards",
+    "alt": "Resolution"
+  },
+  "Campaign/16/piece_2_3.jpg": {
+    "mode": "new",
+    "name": "Claims of Nobility",
+    "type": "Campaign card",
+    "fate": 16,
+    "act": "II",
+    "section": "setup-details",
+    "alt": "Claims of Nobility"
+  },
+  "Campaign/16/piece_2_2.jpg": {
+    "mode": "new",
+    "name": "Lord of the 1st Cluster",
+    "type": "Campaign card",
+    "fate": 16,
+    "act": "II",
+    "section": "setup-details",
+    "alt": "Lord of the 1st Cluster"
+  },
+  "Campaign/16/piece_2_1.jpg": {
+    "mode": "new",
+    "name": "Lord of the 2nd Cluster",
+    "type": "Campaign card",
+    "fate": 16,
+    "act": "II",
+    "section": "setup-details",
+    "alt": "Lord of the 2nd Cluster"
+  },
+  "Campaign/16/piece_2_0.jpg": {
+    "mode": "new",
+    "name": "Lord of the 3rd Cluster",
+    "type": "Campaign card",
+    "fate": 16,
+    "act": "II",
+    "section": "setup-details",
+    "alt": "Lord of the 3rd Cluster"
+  },
+  "Campaign/16/piece_1_6.jpg": {
+    "mode": "new",
+    "name": "Lord of the 4th Cluster",
+    "type": "Campaign card",
+    "fate": 16,
+    "act": "II",
+    "section": "setup-details",
+    "alt": "Lord of the 4th Cluster"
+  },
+  "Campaign/16/piece_1_5.jpg": {
+    "mode": "new",
+    "name": "Lord of the 5th Cluster",
+    "type": "Campaign card",
+    "fate": 16,
+    "act": "II",
+    "section": "setup-details",
+    "alt": "Lord of the 5th Cluster"
+  },
+  "Campaign/16/piece_1_4.jpg": {
+    "mode": "new",
+    "name": "Lord of the 6th Cluster",
+    "type": "Campaign card",
+    "fate": 16,
+    "act": "II",
+    "section": "setup-details",
+    "alt": "Lord of the 6th Cluster"
+  },
+  "Campaign/16/piece_1_3.jpg": {
+    "mode": "new",
+    "name": "Seats & Fiefs",
+    "type": "Campaign card",
+    "fate": 16,
+    "act": "II",
+    "section": "setup-details",
+    "alt": "Seats & Fiefs"
+  },
+  "Campaign/16/piece_1_2.jpg": {
+    "mode": "new",
+    "name": "Feudal Law",
+    "type": "Campaign card",
+    "fate": 16,
+    "act": "II",
+    "section": "setup-details",
+    "alt": "Feudal Law"
+  },
+  "Campaign/16/piece_1_0.jpg": {
+    "mode": "new",
+    "name": "Warden's Levy",
+    "type": "Campaign card",
+    "fate": 16,
+    "act": "II",
+    "section": "if-successful",
+    "alt": "Warden's Levy"
+  },
+  "Campaign/16/piece_0_6.jpg": {
+    "mode": "new",
+    "name": "Feast Day 1",
+    "type": "Campaign card",
+    "fate": 16,
+    "act": "II",
+    "section": "if-successful",
+    "alt": "Feast Day"
+  },
+  "Campaign/16/piece_0_5.jpg": {
+    "mode": "new",
+    "name": "Feast Day 2",
+    "type": "Campaign card",
+    "fate": 16,
+    "act": "II",
+    "section": "if-successful",
+    "alt": "Feast Day"
+  },
+  "Campaign/16/piece_0_4.jpg": {
+    "mode": "new",
+    "name": "Skirmishers",
+    "type": "Campaign card",
+    "fate": 16,
+    "act": "II",
+    "section": "if-failed",
+    "alt": "Skirmishers"
+  },
+  "Campaign/16/piece_0_3.jpg": {
+    "mode": "new",
+    "name": "Sworn Guardians",
+    "type": "Campaign card",
+    "fate": 16,
+    "act": "II",
+    "section": "if-failed",
+    "alt": "Sworn Guardians"
+  },
+  "Campaign/16/piece_0_2.jpg": {
+    "mode": "new",
+    "name": "Act III Setup",
+    "type": "Act card",
+    "fate": 16,
+    "act": "III",
+    "section": "act-cards",
+    "alt": "Setup"
+  },
+  "Campaign/16/back_0_2.jpg": {
+    "mode": "new",
+    "name": "Act III Objective",
+    "type": "Act card",
+    "fate": 16,
+    "act": "III",
+    "section": "act-cards",
+    "alt": "Objective"
+  },
+  "Campaign/16/piece_0_1.jpg": {
+    "mode": "new",
+    "name": "Feudal Courts",
+    "type": "Campaign card",
+    "fate": 16,
+    "act": "III",
+    "section": "setup-details",
+    "alt": "Feudal Courts"
+  },
+  "Campaign/16/piece_0_0.jpg": {
+    "mode": "new",
+    "name": "Lords Gain Power",
+    "type": "Campaign card",
+    "fate": 16,
+    "act": "III",
+    "section": "setup-details",
+    "alt": "Lords Gain Power"
+  },
+  "Campaign/17/Fate17.jpg": {
+    "mode": "overview",
+    "name": "Overlord",
+    "type": "Fate",
+    "fate": 17,
+    "act": "Overview",
+    "section": "overview",
+    "alt": "Overlord"
+  },
+  "Campaign/17/piece_0_2.jpg": {
+    "mode": "new",
+    "name": "Act III Setup",
+    "type": "Act card",
+    "fate": 17,
+    "act": "III",
+    "section": "act-cards",
+    "alt": "Setup"
+  },
+  "Campaign/17/back_0_2.jpg": {
+    "mode": "new",
+    "name": "Act III Objective",
+    "type": "Act card",
+    "fate": 17,
+    "act": "III",
+    "section": "act-cards",
+    "alt": "Objective"
+  },
+  "Campaign/17/piece_0_1.jpg": {
+    "mode": "new",
+    "name": "Sycophants",
+    "type": "Campaign card",
+    "fate": 17,
+    "act": "III",
+    "section": "setup-details",
+    "alt": "Sycophants"
+  },
+  "Campaign/17/piece_0_0.jpg": {
+    "mode": "new",
+    "name": "Rejects Overlord",
+    "type": "Campaign card",
+    "fate": 17,
+    "act": "III",
+    "section": "setup-details",
+    "alt": "Rejects Overlord"
+  },
+  "Campaign/18/Fate18.jpg": {
+    "mode": "overview",
+    "name": "Survivalist",
+    "type": "Fate",
+    "fate": 18,
+    "act": "Overview",
+    "section": "overview",
+    "alt": "Survivalist"
+  },
+  "Campaign/18/piece_1_0.jpg": {
+    "mode": "new",
+    "name": "Act III Setup",
+    "type": "Act card",
+    "fate": 18,
+    "act": "III",
+    "section": "act-cards",
+    "alt": "Setup"
+  },
+  "Campaign/18/back_1_0.jpg": {
+    "mode": "new",
+    "name": "Act III Objective",
+    "type": "Act card",
+    "fate": 18,
+    "act": "III",
+    "section": "act-cards",
+    "alt": "Objective"
+  },
+  "Campaign/18/piece_0_3.jpg": {
+    "mode": "new",
+    "name": "Vow of Survival",
+    "type": "Campaign card",
+    "fate": 18,
+    "act": "III",
+    "section": "setup-details",
+    "alt": "Vow of Survival"
+  },
+  "Campaign/18/piece_0_2.jpg": {
+    "mode": "new",
+    "name": "Building Bunkers",
+    "type": "Campaign card",
+    "fate": 18,
+    "act": "III",
+    "section": "setup-details",
+    "alt": "Building Bunkers"
+  },
+  "Campaign/18/piece_0_1.jpg": {
+    "mode": "new",
+    "name": "Bunkers",
+    "type": "Campaign card",
+    "fate": 18,
+    "act": "III",
+    "section": "setup-details",
+    "alt": "Bunkers"
+  },
+  "Campaign/18/piece_0_0.jpg": {
+    "mode": "new",
+    "name": "Captive Release",
+    "type": "Campaign card",
+    "fate": 18,
+    "act": "III",
+    "section": "setup-details",
+    "alt": "Captive Release"
+  },
+  "Campaign/19/Fate19.jpg": {
+    "mode": "overview",
+    "name": "Redeemer",
+    "type": "Fate",
+    "fate": 19,
+    "act": "Overview",
+    "section": "overview",
+    "alt": "Redeemer"
+  },
+  "Campaign/19/piece_0_3.jpg": {
+    "mode": "new",
+    "name": "Act III Setup",
+    "type": "Act card",
+    "fate": 19,
+    "act": "III",
+    "section": "act-cards",
+    "alt": "Setup"
+  },
+  "Campaign/19/back_0_3.jpg": {
+    "mode": "new",
+    "name": "Act III Objective",
+    "type": "Act card",
+    "fate": 19,
+    "act": "III",
+    "section": "act-cards",
+    "alt": "Objective"
+  },
+  "Campaign/19/piece_0_2.jpg": {
+    "mode": "new",
+    "name": "Ire of the Keepers",
+    "type": "Campaign card",
+    "fate": 19,
+    "act": "III",
+    "section": "setup-details",
+    "alt": "Ire of the Keepers"
+  },
+  "Campaign/19/piece_0_1.jpg": {
+    "mode": "new",
+    "name": "Rebuke of the Keepers",
+    "type": "Campaign card",
+    "fate": 19,
+    "act": "III",
+    "section": "setup-details",
+    "alt": "Rebuke of the Keepers"
+  },
+  "Campaign/19/piece_0_0.jpg": {
+    "mode": "new",
+    "name": "Relic Fence",
+    "type": "Campaign card",
+    "fate": 19,
+    "act": "III",
+    "section": "setup-details",
+    "alt": "Relic Fence"
+  },
+  "Campaign/20/Fate20.jpg": {
+    "mode": "overview",
+    "name": "Guardian",
+    "type": "Fate",
+    "fate": 20,
+    "act": "Overview",
+    "section": "overview",
+    "alt": "Guardian"
+  },
+  "Campaign/20/piece_0_3.jpg": {
+    "mode": "new",
+    "name": "Act III Setup",
+    "type": "Act card",
+    "fate": 20,
+    "act": "III",
+    "section": "act-cards",
+    "alt": "Setup"
+  },
+  "Campaign/20/back_0_3.jpg": {
+    "mode": "new",
+    "name": "Act III Objective",
+    "type": "Act card",
+    "fate": 20,
+    "act": "III",
+    "section": "act-cards",
+    "alt": "Objective"
+  },
+  "Campaign/20/piece_0_2.jpg": {
+    "mode": "new",
+    "name": "Green Vault",
+    "type": "Campaign card",
+    "fate": 20,
+    "act": "III",
+    "section": "setup-details",
+    "alt": "Green Vault"
+  },
+  "Campaign/20/piece_0_1.jpg": {
+    "mode": "new",
+    "name": "Ire of the Tycoons",
+    "type": "Campaign card",
+    "fate": 20,
+    "act": "III",
+    "section": "setup-details",
+    "alt": "Ire of the Tycoons"
+  },
+  "Campaign/20/piece_0_0.jpg": {
+    "mode": "new",
+    "name": "Edenguard Ambition",
+    "type": "Campaign card",
+    "fate": 20,
+    "act": "III",
+    "section": "setup-details",
+    "alt": "Edenguard Ambition"
+  },
+  "Campaign/21/Fate21.jpg": {
+    "mode": "overview",
+    "name": "Naturalist",
+    "type": "Fate",
+    "fate": 21,
+    "act": "Overview",
+    "section": "overview",
+    "alt": "Naturalist"
+  },
+  "Campaign/21/piece_0_3.jpg": {
+    "mode": "new",
+    "name": "Act III Setup",
+    "type": "Act card",
+    "fate": 21,
+    "act": "III",
+    "section": "act-cards",
+    "alt": "Setup"
+  },
+  "Campaign/21/back_0_3.jpg": {
+    "mode": "new",
+    "name": "Act III Objective",
+    "type": "Act card",
+    "fate": 21,
+    "act": "III",
+    "section": "act-cards",
+    "alt": "Objective"
+  },
+  "Campaign/21/piece_0_2.jpg": {
+    "mode": "new",
+    "name": "Blight Society",
+    "type": "Campaign card",
+    "fate": 21,
+    "act": "III",
+    "section": "setup-details",
+    "alt": "Blight Society"
+  },
+  "Campaign/21/piece_0_1.jpg": {
+    "mode": "new",
+    "name": "Spore Guides",
+    "type": "Campaign card",
+    "fate": 21,
+    "act": "III",
+    "section": "setup-details",
+    "alt": "Spore Guides"
+  },
+  "Campaign/21/piece_0_0.jpg": {
+    "mode": "new",
+    "name": "Blightkin Ambition",
+    "type": "Campaign card",
+    "fate": 21,
+    "act": "III",
+    "section": "setup-details",
+    "alt": "Blightkin Ambition"
+  },
+  "Campaign/22/Fate22.jpg": {
+    "mode": "overview",
+    "name": "Gate Wraith",
+    "type": "Fate",
+    "fate": 22,
+    "act": "Overview",
+    "section": "overview",
+    "alt": "Gate Wraith"
+  },
+  "Campaign/22/piece_1_1.jpg": {
+    "mode": "new",
+    "name": "Act III Setup",
+    "type": "Act card",
+    "fate": 22,
+    "act": "III",
+    "section": "act-cards",
+    "alt": "Setup"
+  },
+  "Campaign/22/back_1_1.jpg": {
+    "mode": "new",
+    "name": "Act III Objective",
+    "type": "Act card",
+    "fate": 22,
+    "act": "III",
+    "section": "act-cards",
+    "alt": "Objective"
+  },
+  "Campaign/22/piece_1_0.jpg": {
+    "mode": "new",
+    "name": "Catapult Overdrive",
+    "type": "Campaign card",
+    "fate": 22,
+    "act": "III",
+    "section": "setup-details",
+    "alt": "Catapult Overdrive"
+  },
+  "Campaign/22/piece_0_3.jpg": {
+    "mode": "new",
+    "name": "Breaking Gates & Placing Passages",
+    "type": "Campaign card",
+    "fate": 22,
+    "act": "III",
+    "section": "setup-details",
+    "alt": "Breaking Gates & Placing Passages"
+  },
+  "Campaign/22/piece_0_2.jpg": {
+    "mode": "new",
+    "name": "The Dead Live",
+    "type": "Campaign card",
+    "fate": 22,
+    "act": "III",
+    "section": "setup-details",
+    "alt": "The Dead Live"
+  },
+  "Campaign/22/piece_0_1.jpg": {
+    "mode": "new",
+    "name": "Passages & The Twisted Passage",
+    "type": "Campaign card",
+    "fate": 22,
+    "act": "III",
+    "section": "setup-details",
+    "alt": "Passages & The Twisted Passage"
+  },
+  "Campaign/22/piece_0_0.jpg": {
+    "mode": "new",
+    "name": "Passage Storms",
+    "type": "Campaign card",
+    "fate": 22,
+    "act": "III",
+    "section": "setup-details",
+    "alt": "Passage Storms"
+  },
+  "Campaign/23/Fate23.jpg": {
+    "mode": "overview",
+    "name": "Conspirator",
+    "type": "Fate",
+    "fate": 23,
+    "act": "Overview",
+    "section": "overview",
+    "alt": "Conspirator"
+  },
+  "Campaign/23/piece_1_0.jpg": {
+    "mode": "new",
+    "name": "Act III Setup",
+    "type": "Act card",
+    "fate": 23,
+    "act": "III",
+    "section": "act-cards",
+    "alt": "Setup"
+  },
+  "Campaign/23/back_1_0.jpg": {
+    "mode": "new",
+    "name": "Act III Objective",
+    "type": "Act card",
+    "fate": 23,
+    "act": "III",
+    "section": "act-cards",
+    "alt": "Objective"
+  },
+  "Campaign/23/piece_0_3.jpg": {
+    "mode": "new",
+    "name": "Farseers",
+    "type": "Campaign card",
+    "fate": 23,
+    "act": "III",
+    "section": "setup-details",
+    "alt": "Farseers"
+  },
+  "Campaign/23/piece_0_2.jpg": {
+    "mode": "new",
+    "name": "Conspiracies",
+    "type": "Campaign card",
+    "fate": 23,
+    "act": "III",
+    "section": "setup-details",
+    "alt": "Conspiracies"
+  },
+  "Campaign/23/piece_0_1.jpg": {
+    "mode": "new",
+    "name": "Scoring Conspiracies",
+    "type": "Campaign card",
+    "fate": 23,
+    "act": "III",
+    "section": "setup-details",
+    "alt": "Scoring Conspiracies"
+  },
+  "Campaign/23/piece_0_0.jpg": {
+    "mode": "new",
+    "name": "Foiling Conspiracies",
+    "type": "Campaign card",
+    "fate": 23,
+    "act": "III",
+    "section": "setup-details",
+    "alt": "Foiling Conspiracies"
+  },
+  "Campaign/24/Fate24.jpg": {
+    "mode": "overview",
+    "name": "Judge",
+    "type": "Fate",
+    "fate": 24,
+    "act": "Overview",
+    "section": "overview",
+    "alt": "Judge"
+  },
+  "Campaign/24/piece_1_0.jpg": {
+    "mode": "new",
+    "name": "Act III Setup",
+    "type": "Act card",
+    "fate": 24,
+    "act": "III",
+    "section": "act-cards",
+    "alt": "Setup"
+  },
+  "Campaign/24/back_1_0.jpg": {
+    "mode": "new",
+    "name": "Act III Objective",
+    "type": "Act card",
+    "fate": 24,
+    "act": "III",
+    "section": "act-cards",
+    "alt": "Objective"
+  },
+  "Campaign/24/piece_0_3.jpg": {
+    "mode": "new",
+    "name": "Vow of Fairness",
+    "type": "Campaign card",
+    "fate": 24,
+    "act": "III",
+    "section": "setup-details",
+    "alt": "Vow of Fairness"
+  },
+  "Campaign/24/piece_0_2.jpg": {
+    "mode": "new",
+    "name": "The Arbiter",
+    "type": "Campaign card",
+    "fate": 24,
+    "act": "III",
+    "section": "setup-details",
+    "alt": "The Arbiter"
+  },
+  "Campaign/24/piece_0_1.jpg": {
+    "mode": "new",
+    "name": "Judge's Chosen",
+    "type": "Campaign card",
+    "fate": 24,
+    "act": "III",
+    "section": "setup-details",
+    "alt": "Judge's Chosen"
+  },
+  "Campaign/24/piece_0_0.jpg": {
+    "mode": "new",
+    "name": "Judge Sets Agenda",
+    "type": "Campaign card",
+    "fate": 24,
+    "act": "III",
+    "section": "setup-details",
+    "alt": "Judge Sets Agenda"
+  }
+}
